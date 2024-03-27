@@ -1,0 +1,2149 @@
+########################################
+# Program: needle
+# Rundate: Wed 27 Mar 2024 17:14:24
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240327-171318-0821-68419910-p1m.asequence
+#    -bsequence emboss_needle-I20240327-171318-0821-68419910-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c63361349-63343223
+# 2: c180685339-180664104
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 26327
+# Identity:   10347/26327 (39.3%)
+# Similarity: 10347/26327 (39.3%)
+# Gaps:       13291/26327 (50.5%)
+# Score: 23417.5
+# 
+#
+#=======================================
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18      1 ATTCATCACCGCAGTGCTCCCAGGAGCTGGAACCCTCCTCAGAGCGTTCA     50
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18     51 TAGGGAATGAAGTGCTGAGTGCTGAGGTGCCTGTGTGGGGAGAAAGGCAG    100
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    101 AGCACTGACTGCCCCAGCTTTGCAAATTGATGGCAAAGAGGAGCACCCAC    150
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    151 AGGAAGTCAGGTGAGGAAGGAAGTCCTCAGGCTACTAAAACAAGGAAAGT    200
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    201 GGGCTTTCGTATGCTAGCCACAGCCAGAGATAGTCTTGGCTAGCATACTG    250
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    251 GCAGCTGCTGACCCTGGATGGCACAGACGTTCCCCTTAATACAGAAACAG    300
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    301 ACTTCAGGGTGCCAAAGATTCCCCCAGGCCTGGAGCTGCCACCGTGGCAC    350
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    351 CAGGCGCAGCCTGTAGCTTGCCCATTCTGTTTCATAGCATGACTAGAACT    400
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    401 TGAGGGGCTGGTAGTGTCCTGAGCCAAGGGTCAGGATGAGTTCTGATCAG    450
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    451 AGAAGGGCAGGAAGTACAGCCAGGCGCTGTGTACCCATGCAGTAGTAATC    500
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    501 CTGATGGTGAACGAGTGCTTTAAGGCCTCACATCTCTGCTTCTGCTTGGC    550
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    551 AAGACCTGGCCTTGGGTCCCCTCTCCCTGTGCTCACTGTAGACACCTGCC    600
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    601 CATGAGCCCTAGCCATGAACCCTCTCCCTGGTTAAGCTTGGTCCAGGGGT    650
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    651 GGGATTTAGAGTGACAGGGCAGGGCCCTGAAGGCAGATATTCCTTTCCTC    700
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    701 CCTTCCTTTATTCTTCTGCTCTCCCTCCCTCCATCTGTCCCTGCCTGTCT    750
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    751 TATTTCCTTCTGCTATACATCTTTTCCTCCATCTGCATTCAACACACACA    800
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    801 CCCAGTCACACTAACATCCCTTTCTGTGTGTGTGAGGCCCAGAGCCTCCC    850
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    851 CACTGGACTCACATCCTTGTGGGATGGAGGCCTGGTGTATTGGACAGAGC    900
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    901 CTTTATATGAATCCCTGTTTATACCAGCAGATGGTTACCATGGAAATGTC    950
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18    951 CTTGGGACAGGGTGTAGGGTAGAGAGGGCAGAGAGAGGGAGGGAAGTTCC   1000
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1001 CTCACAGGCCTGTATCTTTTGAACTACCTGTCCAGTTGGGCAGCAGGATC   1050
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1051 CTGGAAGAGAAGTGACAGAGCCAGGGAGGGAGGCATGTTCAGGGTTTGTT   1100
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1101 CTACCCCCACCCTCAGGAGACTCTGGCCTCAGGGTCACCCTAACCTTCTT   1150
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1151 CTGGGGTAGTCTATAGACTTGTAAATTGGGCTTTTCTTGCCTAGTGCCCT   1200
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1201 CAGTAAGAGCTTCACTTGGCTCCAGGATTCCCAGGGTCCCCAGCAGTGGT   1250
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1251 TTCTAGTCAGCAGGTGGGGCAGGAGGGGGCCTACAAATTAATGAGTGAGA   1300
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1301 CTGATTAATCTGCTGCATTAGCAAATCCGCAGGGAAAGTCAACCAGCCAG   1350
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1351 GCAGATGTGTGTGAGCCAGTGCACGTGGTGCACAGGGCTGTGTCAGCAAT   1400
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1401 GCCCTGAGGGTGGAGCCGACCCCCCACCTGGCCTTTTGCTCAACGAGAGA   1450
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1451 CTGCCCGAGAGAGACTGCCCGCTGGTGCGAGCCACTGTCCCAGACTGCTC   1500
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1501 AACCTGGAAGGCTGGGCACAAAGCCTGTCTCTAGAAGCTGTGAAGATAAA   1550
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1551 CAGGCAACAGAGCTGAGCTGCCCCCAAGAAACTCTGAGTTCCTCCTGACT   1600
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1601 CAGTCAGAAGCCAGGGTCTGATTCAGATTTGGTCTGAAGATTCCTACATC   1650
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1651 TGAGTTGTCTGGAAAGGGCTGAAGGAAATCACAGATCTGCAGTTACACCA   1700
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1701 ACAGACTCAGATAGCGGGGGCCAAACCCTGTACACTAACATCCCCAGGTA   1750
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1751 CAAGTGGACTCCCCAGCATCTATACTTTTGGAAGCCTCCGCGGGCTCACC   1800
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1801 CAGCTCACCACCCCTTTCCCAATCTCTGACTCCCTCTGAAACTGTGGGAA   1850
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1851 AGACTCAGGATGGAGAAAGCAAAGCGGCTTTACCCAGAAGGAGGTTTTGA   1900
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1901 TTTGCATGGGGCAGGAGTCAGGACCCTCATCCCCGAACTAAGAAATAGAT   1950
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   1951 ATCACTCAGGTGGTGAGAAGCCTTAGTCTGAGTACCTTTCTCCACAGCCA   2000
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2001 TATCTGAATGACAGCACCTAACCAGAGTTCCAGGGAAGCTGGAAGAAACG   2050
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2051 CCAAGGGACCTGGATCATGGTTGGCCACTTCTATATATTTAAGAGGATCT   2100
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2101 AACACTGTGTAGTCCAGGCTGACCTCAAACTCACTATGTAACCCAGCCTT   2150
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2151 ACTTTGAACCTGTGGCAGTCCTTCTGTCTCTGAGTACTGGAATTATAGGC   2200
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2201 ACACACCACTCTGCATCTATCCTTGGCTTCTGGTATTAATAGAAGATAGA   2250
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2251 GCTGACTGTGTACACTGTCCTTGCTCTGTGCTAATATGAAGCAGAGGTGT   2300
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2301 CACATCAAGATGGCTGTAGACCCAGGTCCAGCTGCAGTTTTCCCATGTGG   2350
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2351 GACCTGTTGGCCTCACTGCTCTCCCCAGATCCCTCGGGGTCCACCATGCT   2400
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2401 AAGCCTTACACAGGCTTGCTTTCTGCCCCACAGGCAGTGCTCAGCCACAG   2450
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2451 GCTGATTTGTTCATCCAAGCCTACAAGTGTGCTTAGGAATACCTGGCTAG   2500
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2501 TGCAGGAATGGACTAACACATACATGAAGCGTGGAGCCATGGTCTGACTC   2550
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2551 TTTGGGGGACAGAGGTGGATGAGGACAAGCTAATCGGGGGGACTAGCCCT   2600
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2601 AGTGGTGAGCGTGGAAAGAGCAGAGGTCTACTGAGAAAGCCAAGCTTTCC   2650
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2651 CTTGGCTCCTGGAAAGTCTCCAGGCAGAAAGGGAACGGCTACCCAAAGAA   2700
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2701 CATTCTTCGCATGAGGTCAGGGTGCCTACTCTAAAGCTCGATAGCCTGTT   2750
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2751 TTAGGATCCCACTACTGAATGTGTGATCATGAGCAAGTTGCTTAAATCTT   2800
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2801 CTTGCACCCACCTGGGAAGGCATAGGTAAAAGAATTAGCCTTTGAGGGTA   2850
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2851 CTGTGGGAGTCTGGCATACCAACACACCCTCAGTGTTTGGGCCAGCATCT   2900
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2901 AGGAGGGCACAGGAGGAGAACAATGGCCACTGCGAAGGTGATCTGCCCTG   2950
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   2951 GAGGAGAGTATTTGAGAAGTCCTATTGTAGGCTTTGCTTACAGAGCGTAG   3000
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3001 GCAGATGGCTCCTGTGACCTGGAGGAGTCTGAAGGTTCCAGAGCAGGTAT   3050
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3051 GTGACATATGTATTCACTGTAGGCCAGCAGGCAAGAGAGCTAGGTACACT   3100
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3101 ACTGTTGGAGGGGCATACAGAGGAGGGGGGTGGAGCAAGGTAGGGAGATG   3150
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3151 GGAAAGAGGAGGGTAGGCATGGGAGCCCTGTACTGTTGGGGTTGGGGGGT   3200
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3201 CGGTACGGAAGGTCAAAGGGACAGTCAACCTCAGAGCCACCATGTCTGGG   3250
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3251 AACAGAGAGGTATGTGCTATAGGGACAGGGACAGCACTTTCTTGCCTTCA   3300
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3301 ACTTCAGGATTGTCTCCATCTTGGGGCTTGGAGTCAACGGCAGAGTCTCT   3350
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3351 GGGACAAGGCATGGTTGGGATCTGGCTTTTGGTGTTGGACAGGGTTTCTT   3400
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3401 TCTTCTTGGGAACCCGTTGTCTCTCCTTCCATCACCTGCTGCTTAGATGC   3450
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3451 CCCCTCCCTCTCGCACCTCCCCCCCAGCCTCCCCCCCGCCCCCCCGCGTG   3500
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3501 CCACCAAAGCACTCTAGGAACCAAAGTACTCGAGCACCTTCTCCTTAGTG   3550
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3551 GCATCCCTCAGGACCATCCCTAGCACCCTACAGCTTGTCTCCAAGCACCT   3600
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3601 CTCCTCTCTGGCCAGTAGCTCGCTGCCCACAGAGCTGGGGTAGGGAACTG   3650
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3651 CTTTCATGCTGACAGTTTACCGAGAAGGCAGGGGCAGAGAATCTGCACGC   3700
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3701 TTAAAAAGGACAAAGATGGACCTTGGTCCCTAGCTGGCCCTGCGAAGGTC   3750
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3751 TGGATACCAGGTTCTTCTCACTAAAAAGGTGACACGGGGCCTGGGCGTCA   3800
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3801 CAGGATGATTCTTGGACTTGCGGTGCAGGAGGAGGGCGGAAGGCTGATGG   3850
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3851 GGAGTGGGTTCTTTCCTCTCAGGGTTGGGCTAAGGAAGGAGACTTGTTAT   3900
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3901 TTCTAAAATGCAAACAGTCACGCCAAGGAGGGGTGAAGTGATGGAGTTAG   3950
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   3951 CCAGTGCCCAACAGGGCGCCCTCCTCGCGCGCACAGTCCCTGAATGCGCA   4000
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4001 CCCGCAGTCTTCACGCTGCCGGCAGGGTTAGGGCTGGAGACCAGGGTTAG   4050
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4051 GGGCTCATTTCCAAAAGGCGCCGAGATGACTGGAATGACCACGGAGTCCC   4100
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4101 CAGCCCCTCCCGGCATGTCGGGAGCCTCAGGAGGACAAGGAAACTTTACC   4150
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4151 CCCACAAGGGGCAGAGCACGGCCTCCACATACCCTCGGGGCCCGGTCCGC   4200
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4201 CCCCTCCTCCCGCTCTCTCCCTCCTCCCTTCAGTCCCTCCCCCTCCTCCC   4250
+
+c63361349-633      1 --------------------------------------------------      0
+                                                                       
+c180685339-18   4251 CTCTCGCCGGCGGCTGGAGGCTGCAGGTCCGGGCGGGGCCGCGCCGCGGA   4300
+
+c63361349-633      1 GCCCACAGCCCGGCGCTCCCTGCCGCGCCGCCGCCGCACCGCGCCCCACA     50
+                     |||||||.||..|.||||    ||||.|||||||||||||.|||      
+c180685339-18   4301 GCCCACAACCTCGAGCTC----CCGCCCCGCCGCCGCACCCCGC------   4340
+
+c63361349-633     51 GGAGAAGACGAAC--CGG-GCCCG----GCGGCCGAAGCGGCCCGCGAGG     93
+                     ||    |||||.|  ||| |||||    |.||.|| ||||| ||||||  
+c180685339-18   4341 GG----GACGAGCTGCGGAGCCCGGTTTGGGGACG-AGCGG-CCGCGA--   4382
+
+c63361349-633     94 CGCGGGAGGCATGAAGTTGGGCGCGCACGGGCCTCGAAGCGGCGGGG---    140
+                     |.|||  ||||||||||||||.||||.||||.||||.|||||.||.|   
+c180685339-18   4383 CACGG--GGCATGAAGTTGGGTGCGCGCGGGTCTCGGAGCGGAGGCGCGG   4430
+
+c63361349-633    141 ---AGCCGGGAGCCGCCCGCATCTAGAGCCCGCGAGGTGC-GTGCGCCAT    186
+                        .||||||||||||||.|.||||||||||     ||.| |||.|||||
+c180685339-18   4431 TACTGCCGGGAGCCGCCCTCGTCTAGAGCCC-----GTTCTGTGAGCCAT   4475
+
+c63361349-633    187 GGAGCTAGGGGGCCCCGGAG------CGCCGCGGCTGCTGCCGCCGCTGC    230
+                     ||||.|.||||||.||||.|      ||||||.||||||.|.||||||.|
+c180685339-18   4476 GGAGATCGGGGGCTCCGGGGCGCCGCCGCCGCTGCTGCTCCTGCCGCTCC   4525
+
+c63361349-633    231 TGCTGCTTCTGGGGACCGGCCTCCTGCGCGGTAAGTTACGGGGCGCGGGA    280
+                     |||||||..|.||||||||||||.|||..||||||||.||...||||..|
+c180685339-18   4526 TGCTGCTCTTAGGGACCGGCCTCTTGCCTGGTAAGTTTCGAAACGCGAAA   4575
+
+c63361349-633    281 TGGGCCCCCTTTCGCCCGCGTTCGGATGG--CCTGGGACCCCCAGAGCCA    328
+                     .||| ||..||||.||||.||.|   |||  |||.||| |.||.|.||.|
+c180685339-18   4576 CGGG-CCTTTTTCTCCCGGGTCC---TGGCACCTAGGA-CTCCGGGGCTA   4620
+
+c63361349-633    329 GAGGGAG-GCAGGCTCCTGACTGCGGTCCCAAGCCGCGGGTGCGCGCGAC    377
+                     | ||||| |.||||.|..|.|||||||.||||||||||||||||.||.||
+c180685339-18   4621 G-GGGAGAGGAGGCCCGGGGCTGCGGTTCCAAGCCGCGGGTGCGAGCAAC   4669
+
+c63361349-633    378 TGG---GCGACCGCGAGGCTCC-CCATCCC----CAGC--CGCACAGG--    415
+                     .||   ||.||  .|||.|||| ||| |||    ||||  ||   |.|  
+c180685339-18   4670 GGGATAGCCAC--AGAGACTCCTCCA-CCCACTACAGCTTCG---ATGTC   4713
+
+c63361349-633    416 CTGC---GCTCGCACCCGGGCTGAGCCAGGCGAGGAGGGAGTTGACCGCC    462
+                     ||||   |||        .||||||||| |.|||||.|||.|...||.||
+c180685339-18   4714 CTGCAGTGCT--------AGCTGAGCCA-GAGAGGAAGGAATCAGCCTCC   4754
+
+c63361349-633    463 GGCGAATGCGGAGGGCTGGGAAAGGGGCTTT------CCGCGGGGTGTGG    506
+                               .||.|||||||.|||||.|||      ..||||||.|.||
+c180685339-18   4755 ----------AAGTGCTGGGAGAGGGGGTTTGAGTAAAGGCGGGGGGGGG   4794
+
+c63361349-633    507 GGGGTTCCG-CTGCTATTTCAGGGCTGGCCCCAAAAGCTCGAACTTGAGC    555
+                     ||.|.||.| |||| |||||.|.|||||...||.||.|||.||.|.|...
+c180685339-18   4795 GGTGGTCTGACTGC-ATTTCGGAGCTGGAATCAGAACCTCCAAGTAGGAT   4843
+
+c63361349-633    556 AGAGGTGG-GGCCACCTTCGCCCTTCCCCCA----------TCCATCCAG    594
+                     |||||||| |.||||||             |          |||||||||
+c180685339-18   4844 AGAGGTGGAGTCCACCT-------------AGGAGGGAGGTTCCATCCAG   4880
+
+c63361349-633    595 CTAAATTTC-CCTGAAGA---CCCCCATGCCTGCTTCCTCCGGTTTAGGG    640
+                     |.||||.|| |||..|||   ||||||||.|||  ||| |.|.|||..||
+c180685339-18   4881 CCAAATCTCGCCTTCAGACCGCCCCCATGTCTG--TCC-CTGTTTTCAGG   4927
+
+c63361349-633    641 GATCAGA---------------GGGGTGGC-CTCTGCCCTT---------    665
+                     |||| .|               ||.||..| |.||.|||||         
+c180685339-18   4928 GATC-TACCCCTACCACCCCCCGGAGTTCCACCCTACCCTTTCTGCTCCC   4976
+
+c63361349-633    666 ---GGCGGCCGCCACC------------------CACCTTT---TCT---    688
+                        |||..||.|||||                  |||||||   |||   
+c180685339-18   4977 CCAGGCTTCCTCCACCTCTCTTCCTCTGAGCGGACACCTTTCACTCTAAC   5026
+
+c63361349-633    689 --------------------------------------------------    688
+                                                                       
+c180685339-18   5027 CCGTGATGGGGCTTCCTGCAGTTATTTAATCCTGGCCTTCCCACTGAGCA   5076
+
+c63361349-633    689 ---------------------------------GCAGGAAGGACAAGGTC    705
+                                                      .|||||||.|..||||.
+c180685339-18   5077 GAGGGGTTATGCCTTACTGGTCGGTTCAAGACACCAGGAAGAATGAGGTT   5126
+
+c63361349-633    706 GCGGGTGGGGACTCTGGGCTGGGAGTCAAGGCTCCCAGGGG---TGTAGA    752
+                     | .||||||||     |||||||.|    ||      ||||   |.|||.
+c180685339-18   5127 G-AGGTGGGGA-----GGCTGGGGG----GG------GGGGGACTCTAGG   5160
+
+c63361349-633    753 ACTGACCCCTCCCCCTCCCC----GAGT---CCTGTCTGCGCTCTCAGGC    795
+                     |.|          ||||.||    ||||   |.|||     ||||||||.
+c180685339-18   5161 AGT----------CCTCTCCTAAGGAGTTCCCATGT-----CTCTCAGGT   5195
+
+c63361349-633    796 CAGCGGGACCCACCAGGGAGGTGGAGGTCTCCCC---CTCCGCCCAGACC    842
+                     .|||..||.|||..||..| |..|||| ||||||   .||..|||| |||
+c180685339-18   5196 GAGCAAGAGCCAGTAGACA-GCAGAGG-CTCCCCTCTTTCTTCCCA-ACC   5242
+
+c63361349-633    843 CGCCCCTTATG--GCAGC-GCCCAGGACA-GGCGG--GGAATGCCTCAGA    886
+                     | ||.|||.||  ||||| .|||||.|.| ||.||  ||.|.|||.|..|
+c180685339-18   5243 C-CCTCTTTTGATGCAGCAACCCAGCAAATGGAGGTAGGGAGGCCCCCTA   5291
+
+c63361349-633    887 TCC-----TGGGGCCCCGGACCTGGAG----CACAGATGGAC--CTAGGG    925
+                     .||     .||||||     ..|||||    |||||||||.|  ||  ||
+c180685339-18   5292 GCCACGTAGGGGGCC-----AATGGAGAGGACACAGATGGGCTGCT--GG   5334
+
+c63361349-633    926 CT-GTGCTCCTCCAGAGCGA---------CTCATCA---------GGGGC    956
+                     || |||        ||..||         |||.|||         |.|||
+c180685339-18   5335 CTGGTG--------GAATGAGGGGGCACCCTCTTCATGAAGCAGTGTGGC   5376
+
+c63361349-633    957 GTT-----CTGG------------GTC--TGCCCAACAGCACGGGCAGGC    987
+                     |.|     .|||            |||  ||   |||| ||.||.|    
+c180685339-18   5377 GCTTATCCATGGAATCTTATATCCGTCTATG---AACA-CAAGGTC----   5418
+
+c63361349-633    988 TGGGGTGCGGAGGGGGCTGGCA-CCTCGTTGGGGTCTGCAT---------   1027
+                                     |||||| ||.||  .||.|||||.|         
+c180685339-18   5419 ----------------CTGGCAGCCCCG--AGGCTCTGCGTTCATTGTCA   5450
+
+c63361349-633   1028 --CTGAAACACT-----CCTCGGGCATCAGGGGATTGATGAACCAGGGGA   1070
+                       ||| .||.||     || |.||||.||||          ||||     
+c180685339-18   5451 GGCTG-TACCCTAGAAGCC-CAGGCAGCAGG----------ACCA-----   5483
+
+c63361349-633   1071 GGTTCC-GTAGGA-AGCGG-----GCGCTTG------TG------GGGGC   1101
+                       .||| || ||| ||.||     ||.|.||      ||      ||.||
+c180685339-18   5484 --CTCCTGT-GGACAGAGGCTCAAGCTCCTGCAGCCATGAGATGTGGTGC   5530
+
+c63361349-633   1102 CCGATCCTCCTTC--------------CCCTTCCTCCCT-----------   1126
+                     .|..|||||.|||              |||.||||..||           
+c180685339-18   5531 ACAGTCCTCTTTCATTCACCACCACCACCCATCCTAGCTGCCCCATACAC   5580
+
+c63361349-633   1127 CTTCCTGCCTGGGCTGGCCCCGCTGCCCTGTACTCCC---TCCTTTGCTG   1173
+                     ||| |||||       .|||.||  |||   ||.|||   .||    |||
+c180685339-18   5581 CTT-CTGCC-------ACCCAGC--CCC---ACCCCCCAACCC----CTG   5613
+
+c63361349-633   1174 CTG-----TTACCCCCGAGTGTCCTCTGACTC-GCCAGCTGCTAGAGACA   1217
+                     |||     ||||        .||||.||.||| |||.|...||.||||.|
+c180685339-18   5614 CTGTCCCTTTAC--------ATCCTTTGTCTCTGCCGGTCACTGGAGATA   5655
+
+c63361349-633   1218 CAGCCCTTCCCT-GGAAGTCA--GTGTGACAGGAG------ACCC----A   1254
+                     ..||.|||||.| ..||||.|  ||.|| ||||.|      ||||    |
+c180685339-18   5656 GGGCACTTCCATCCAAAGTGATTGTCTG-CAGGGGAGCTCTACCCCATTA   5704
+
+c63361349-633   1255 AAGCAGTCCTCGGCCCA-----TCCGCCGCCTGGTTTT-GTGGTGCGGT-   1297
+                     |..||||     |..||     ||.|..|.||.||||| .|||||..|| 
+c180685339-18   5705 ATTCAGT-----GTTCACTATGTCAGTTGTCTTGTTTTCCTGGTGGAGTG   5749
+
+c63361349-633   1298 CAAGGTGCTGGGAAGGCC---TCCGTGGGCTGA-----GGGGCCTGGGAA   1339
+                     ||        |||.||||   |||.|    |.|     ||||||..||||
+c180685339-18   5750 CA--------GGAGGGCCTGATCCAT----TCATTCTTGGGGCCCTGGAA   5787
+
+c63361349-633   1340 --GCTTCCCCGAGGAAATCACAATTACACCCAGGGGTGGGAGAGAGCCGG   1387
+                       ||||||..||||               ..|||.|| |||| |.||.||
+c180685339-18   5788 AGGCTTCCTTGAGG---------------GGAGGAGT-GGAG-GTGCGGG   5820
+
+c63361349-633   1388 AGGCCAAGAGAGGTCAGCGCACG-CCACGCCCGGCACACACACACACACA   1436
+                     .||        ||...|.|.||| |.|||                     
+c180685339-18   5821 GGG--------GGGGGGGGGACGACGACG---------------------   5841
+
+c63361349-633   1437 CACACACACACACACAGCACACGCCCGGCACACACACACACACAGAGCGC   1486
+                                |||..|||                             ||
+c180685339-18   5842 -----------ACAAGGCA-----------------------------GC   5851
+
+c63361349-633   1487 ACGCCCGGCACACACACAGGTCCTGGGGTGGGAAGGGCTCATGTGAGGAG   1536
+                     |.||||.|          ||.||||.||| |||||.|   |..|.||   
+c180685339-18   5852 ATGCCCAG----------GGGCCTGAGGT-GGAAGAG---AAATCAG---   5884
+
+c63361349-633   1537 CTGAAAGGAAGTGGACGTGCTGGGCA-GGGGGCTGGGGCAGCCTGGAGAG   1585
+                         ||||||| ||..|||.| |||| ||||.||||.|     |||.|  
+c180685339-18   5885 ----AAGGAAG-GGCTGTGAT-GGCATGGGGTCTGGTG-----TGGGG--   5921
+
+c63361349-633   1586 CTCCTGGA-CAGCTCCCGGCTCCTGTCCCGCCTG--CACCTGAGCC----   1628
+                        ||.|| |||    |.|||.|||       ||  |||||| .||    
+c180685339-18   5922 ---CTAGAGCAG----CAGCTTCTG-------TGGTCACCTG-TCCTTAA   5956
+
+c63361349-633   1629 ACTGGCCTGCCTCTCCCCGCAGCCAGCAGCCATGTGGAGACCCGGGCCCA   1678
+                     ||| ..||||||| ||||.||||.||||||||..|.||||||||||||||
+c180685339-18   5957 ACT-TTCTGCCTC-CCCCACAGCTAGCAGCCACATAGAGACCCGGGCCCA   6004
+
+c63361349-633   1679 CGCCGAGGAGCGGCTCCTGAAGAAACTCTTCTCCGGTTACAACAAGTGGT   1728
+                     .||.|||||||||||||||||||.|||||||||.||.|||||||||||||
+c180685339-18   6005 TGCGGAGGAGCGGCTCCTGAAGAGACTCTTCTCTGGCTACAACAAGTGGT   6054
+
+c63361349-633   1729 CCCGACCCGTGGCCAACATCTCGGACGTGGTCCTCGTCCGCTTCGGCCTG   1778
+                     |.||.||.||.|||||.|||||.||.||||||||.||||||||.|||.||
+c180685339-18   6055 CTCGGCCAGTAGCCAATATCTCAGATGTGGTCCTTGTCCGCTTTGGCTTG   6104
+
+c63361349-633   1779 TCCATCGCTCAGCTCATTGACGTGGTAGGTGAGGGCGTGGCCATCGTG--   1826
+                     ||.||.||||||||||||||.||||||||| |.||.|..|||.|.|||  
+c180685339-18   6105 TCGATTGCTCAGCTCATTGATGTGGTAGGT-ATGGGGATGCCCTGGTGTT   6153
+
+c63361349-633   1827 -CACTGTGAC--TGAGGTCGCCCTGCAAGGAG----CACAGGGGTCTGGG   1869
+                      || |..|||  ||.||||.|||||| .||||    ||||     |||  
+c180685339-18   6154 ACA-TAGGACAATGGGGTCACCCTGC-TGGAGTTATCACA-----CTG--   6194
+
+c63361349-633   1870 TGGGCAGAGGGGACACAGCCATCAACACTCCCCGTGGCTGTGAGTGTCCG   1919
+                                             |.|||||..|||||||          
+c180685339-18   6195 ------------------------AGACTCCATGTGGCTG----------   6210
+
+c63361349-633   1920 GCCCGGGCTGGTACGTCAGAACGACAGCCACC-AGCTCTGCC--------   1960
+                              |||   |||           ||| ||.| ||||        
+c180685339-18   6211 ---------GGT---TCA-----------ACCAAGGT-TGCCAGCAAAAT   6236
+
+c63361349-633   1961 --CCGCCTGAGCCCCAGCCAAGGGTTGATTCAG-AGCGTCCCAGCCAG--   2005
+                       |..||||||||.||||  |||  || .|||| |.||....||..||  
+c180685339-18   6237 GTCATCCTGAGCCTCAGC--AGG--TG-CTCAGCACCGGGGAAGGGAGGT   6281
+
+c63361349-633   2006 --GCCCTGCCCTTTCCTCCCCCTTGACGTG------GGAACACTCCAAGT   2047
+                       ||.|||        |..|.||.|||.||      ||||..||   |||
+c180685339-18   6282 GAGCACTG--------TAGCTCTGGACCTGTTCACAGGAAAGCT---AGT   6320
+
+c63361349-633   2048 GGCCAGGTTCTC----AGTA--CAGAGCCCAGGCACCTTCGGAAGCAAAG   2091
+                     |||||.|.| ||    ||||  ||||      .||||||..|.||.||||
+c180685339-18   6321 GGCCATGCT-TCCTAAAGTAACCAGA------ACACCTTTTGGAGTAAAG   6363
+
+c63361349-633   2092 AACAGCAAAGGCCTTGCTTGGGGGT---GGCGGGGCA---CGCTGTGACC   2135
+                     |.|||.|||.|.|||  .||.||||   ||.|||.||   |.||    ||
+c180685339-18   6364 ACCAGGAAAAGGCTT--CTGTGGGTATAGGAGGGCCAGTTCCCT----CC   6407
+
+c63361349-633   2136 TCGGAGCAAC-AG-----GGACAAC--CGGCCGGGGC--------AGGGG   2169
+                     ||  ||||.| ||     ||| |||  .||..|.|||        ||.||
+c180685339-18   6408 TC--AGCAGCTAGGCTGTGGA-AACTTTGGTTGTGGCATCCTTTGAGTGG   6454
+
+c63361349-633   2170 CC---GGGGCA------GGAGCAGGCACTGTGGTGTCCCGGCAGCACCCC   2210
+                     ||   |.||.|      ||.||||||||..||.|.|     |||      
+c180685339-18   6455 CCACTGTGGTACACTGGGGGGCAGGCACGATGATCT-----CAG------   6493
+
+c63361349-633   2211 AACCTTAGCTGGCCCCAGAGGCCCC-----TCACCCACAGATCTGGAATG   2255
+                           |.|.|...|||||||||.|     .||.|||   .|.|||||.|
+c180685339-18   6494 ------ATCAGATTCCAGAGGCCGCCAAGTACAACCA---GTGTGGAAAG   6534
+
+c63361349-633   2256 TGGGGTTTGGGGGAGTCTTG--GGCGAAGT-CTGTTTGTCTGAAGATATG   2302
+                     .||||.|||||.||  .|||  |.| |.|| |||.||.||||  .||.||
+c180685339-18   6535 CGGGGCTTGGGTGA--ATTGCAGAC-AGGTCCTGCTTATCTG--CATGTG   6579
+
+c63361349-633   2303 TTCTTT---CTGGTGGGGGGCCCAA-------GAAGGCTGCTGGGAGGAA   2342
+                     |||.||   ||.|||        ||       ||||.||.|||||||||.
+c180685339-18   6580 TTCATTTCCCTAGTG--------AAAGTCTAGGAAGACTTCTGGGAGGAC   6621
+
+c63361349-633   2343 GCCTACTG-GTCCAGCCAGGCCCCTGCAGCGTGGGCCAGTGCACATGGAG   2391
+                     |     || || .|||.|||                |||.|.||.|    
+c180685339-18   6622 G-----TGTGT-GAGCTAGG----------------CAGCGAACTT----   6645
+
+c63361349-633   2392 CC-CCAAG-------GCAGGATAGGAACCAGGAGGC---TTCGAGGCTGA   2430
+                     || |||||       |.|||| ||.|  ||||||.|   .||..|||...
+c180685339-18   6646 CCTCCAAGAAATCCTGGAGGA-AGCA--CAGGAGACATGGTCCTGGCCCG   6692
+
+c63361349-633   2431 GAGAACTGAGCTGCGGGAGGCTCGGCCT--TGTGCTCGGTTGAGATGCTT   2478
+                     |.|||.|...|||..|||.||| ||.||  .|||  .||.||||.|||||
+c180685339-18   6693 GGGAAGTATACTGTAGGAAGCT-GGTCTCACGTG--AGGCTGAGTTGCTT   6739
+
+c63361349-633   2479 GGTTACCTACCCAGGCCTGAGCCAGACTGTCTGGGGGTCTCGGCGGCCCT   2528
+                     .||||            .||.||||.||.||       ||    ||||  
+c180685339-18   6740 TGTTA------------GGACCCAGCCTTTC-------CT----GGCC--   6764
+
+c63361349-633   2529 GGAGGGGCCGGGTAAGGGGCAGCAGAGACATTTCCACGT----TTC--CC   2572
+                                   |||..||||.|      .||||.||    |||  ||
+c180685339-18   6765 --------------AGGCTCAGCTG------CTCCATGTCGGATTCGACC   6794
+
+c63361349-633   2573 AGCC----AGG--CTCAGCCACTCCAAATGGGGTGAGACCATCCC-----   2611
+                     ||||    |||  .|||||||        .||||.||..||..||     
+c180685339-18   6795 AGCCTTAGAGGAATTCAGCCA--------TGGGTTAGTTCACACCTGTAT   6836
+
+c63361349-633   2612 -TCAGGGTACCTGGCTGGGTGGGGGTGCATAGCCTGGGGGCTGCCACCAT   2660
+                      |||  |||||                   |.||.|||..|||||     
+c180685339-18   6837 TTCA--GTACC-------------------ACCCAGGGTTCTGCC-----   6860
+
+c63361349-633   2661 GGAGGAGGGCAG-----GTTGG---GCAGGCCATGG--TCT-------CT   2693
+                              |.|     |||||   .|||  |||||  |||       ||
+c180685339-18   6861 ---------CTGTTCCTGTTGGACCTCAG--CATGGGTTCTCTCCTGGCT   6899
+
+c63361349-633   2694 GGGA-------GCTG---------GCCCACTTGCGAGT--GGGCAGCCAA   2725
+                     ||.|       ||||         |.|  |||.|.|||  |.|.||.|||
+c180685339-18   6900 GGTAGAGTCATGCTGAGAAGACATGAC--CTTACCAGTGAGAGTAGTCAA   6947
+
+c63361349-633   2726 TGGCCAGCTGAGCTGCAG-------GGGCTCGTCTTCCACACTGAAGTCC   2768
+                     .|||||.||||  |..||       |||.||    ||||.||||      
+c180685339-18   6948 AGGCCATCTGA--TTTAGTAACCTTGGGGTC----TCCATACTG------   6985
+
+c63361349-633   2769 GCCAGCTCCAGCCCTGCTGCCAAATCCCAGCTCGCTGGTCCAGGGAGGGC   2818
+                              .|...|||||                 |||.||||||..|.
+c180685339-18   6986 ---------GGTTTTGCTG-----------------GGTTCAGGGACAGA   7009
+
+c63361349-633   2819 ACCCCCACATGGGGAGGCATTTGTATGCTGTAGAG-GCCCAG--CCCACA   2865
+                     .||      ||||       |||.|    |.|||| |.||.|  ||..||
+c180685339-18   7010 GCC------TGGG-------TTGGA----GGAGAGAGACCTGTCCCTGCA   7042
+
+c63361349-633   2866 ---CCTTGCCAGGATGCC----AAGCCTGGGTCTGCCGCTGAGGGAGGAG   2908
+                        ||||  |||  ||||    ||||      |||||.|           
+c180685339-18   7043 GAGCCTT--CAG--TGCCCTAAAAGC------CTGCCCC-----------   7071
+
+c63361349-633   2909 CCACCGGGTTGC--GGGAGAATTTCCTCTCTTTGG---GAGGCTGGTGCC   2953
+                     .||||..|.|.|  ||| |||.|       .||||   .|||||||..|.
+c180685339-18   7072 ACACCCTGCTACAAGGG-GAAGT-------GTTGGCTCAAGGCTGGCACT   7113
+
+c63361349-633   2954 GTGCGTGTTGGGTAACCCTGGGCC------TGGGGCCT---GTGAAACGG   2994
+                     |..|.|.||||||.|..||.||||      ||.|  ||   .|||.|.|.
+c180685339-18   7114 GAACATCTTGGGTGATTCTCGGCCATTACATGTG--CTTTCCTGACAAGA   7161
+
+c63361349-633   2995 GGTGAGAGCTGCTTCACTATCCCAGGCTGAGTGGGCCACACCCCAGG---   3041
+                     |.|||.|||..||...|||||...|.|.||||..||..||.||||||   
+c180685339-18   7162 GCTGAAAGCAACTATGCTATCTTTGACAGAGTCAGCAGCAGCCCAGGGCT   7211
+
+c63361349-633   3042 ----GGCTTTTGGGAGGTG-TGGGGAGCTGCAGCCACATTCCCGCGGACA   3086
+                         ||||     ||.||| |       ||.|  ||||        ||.|
+c180685339-18   7212 TCAAGGCT-----GATGTGAT-------TGAA--CACA--------GAGA   7239
+
+c63361349-633   3087 GGCTGCTCAGTGGTGGCAGTTGCCCATGCAG-GGCAGCGCATGGAGACTC   3135
+                     ...|||| |||  ||||     .|.|..||| |.||| .|||..|||.|.
+c180685339-18   7240 CCTTGCT-AGT--TGGC-----TCTACTCAGAGCCAG-ACATTAAGATTT   7280
+
+c63361349-633   3136 CAGTCAGCCAGCCCCGTCCAGGGTTGGCCACCCAGACCTCCAGCCTCAGT   3185
+                     ||.||  .|||....||||||.|||.|||.||||            .|||
+c180685339-18   7281 CATTC--TCAGAAGGGTCCAGTGTTTGCCCCCCA------------AAGT   7316
+
+c63361349-633   3186 GTCCTGGAGCTGCCCTTGAGTGGCTCCTGTGGAGTGTCCCTGGCGGAGGC   3235
+                     |       |.|  |||..||||||||   |||       ||||.|||   
+c180685339-18   7317 G-------GTT--CCTACAGTGGCTC---TGG-------CTGGGGGA---   7344
+
+c63361349-633   3236 CCAGCCAGAAGACAATGCGGGTTGCACAGGCTTGGCAAGCCTGCTGAGGT   3285
+                      ||.|.||  ||||.|||.||..|.||||||....|||.|.|||||||||
+c180685339-18   7345 -CATCAAG--GACAGTGCAGGAAGTACAGGCCCCTCAACCTTGCTGAGGT   7391
+
+c63361349-633   3286 TTGCAAACACGGCTGCAAAGTGATAGCTGGCAGAGGCGGCCGCTGGCAGC   3335
+                     ||||||||||.|.|.||||||..|..||||||||||.|.|.|.|||..||
+c180685339-18   7392 TTGCAAACACAGTTACAAAGTAGTGTCTGGCAGAGGAGACTGTTGGTGGC   7441
+
+c63361349-633   3336 TGCCCAAGGCTCTGGGTCTGCCACCCCCCACCTGG-CTGCCTACCTGAGC   3384
+                     .||.|||||.||||||.....||    |||||.|| |||||||       
+c180685339-18   7442 AGCTCAAGGTTCTGGGGAGAACA----CCACCAGGTCTGCCTA-------   7480
+
+c63361349-633   3385 TTCTCAGG-------GCTCAATC-CATGGCTCCCTACGCCACCACAGAGT   3426
+                          |||       |||||.|| ||| ||||                  
+c180685339-18   7481 -----AGGCAGTCAAGCTCAGTCTCAT-GCTC------------------   7506
+
+c63361349-633   3427 CCCCAGTTTGCC-CAGGAGACATTGAGGCCTGGAGCACACCCAGAACCAA   3475
+                           |.|||| |.|||||||.|||||||...||.||||||||.|.|||
+c180685339-18   7507 ------TCTGCCTCGGGAGACACTGAGGCCCAAAGTACACCCAGCATCAA   7550
+
+c63361349-633   3476 GA---CTCCCA--GAGCTG---CCCACCCC---TCTCTCCACCCTGCAGC   3514
+                     ||   ||.|.|  ||.|||   ||||..||   ||.||.| ||||| |.|
+c180685339-18   7551 GATTTCTGCGAGGGACCTGGCTCCCAGGCCTAATCACTGC-CCCTG-ATC   7598
+
+c63361349-633   3515 CGACTAAGGACTTACACGAACATG------CACACGTGGGTGCTGA-CGC   3557
+                     ...||||||.|..|||.|||||.|      |||||.||..|...|| .||
+c180685339-18   7599 TAGCTAAGGCCACACATGAACACGTATACACACACATGCATATAGATAGC   7648
+
+c63361349-633   3558 TCCT-------------GGGTG-CCCAAGG-------CCGAGGGCCACGT   3586
+                     ||||             ||||| |||||.|       ||     ||||  
+c180685339-18   7649 TCCTGGATCTGGTTTGAGGGTGTCCCAAAGTTTCACCCC-----CCAC--   7691
+
+c63361349-633   3587 GTGCACGGAAGGGGCTGCCTGATGCTCCTGGG---TGCTGG-CCTAAGGC   3632
+                                  .|||||  |.||.|||.||   |||||| .|| |||.
+c180685339-18   7692 -------------ACTGCC--AGGCACCTTGGAAATGCTGGTTCT-AGGT   7725
+
+c63361349-633   3633 T----------------GAG------GACCACGTGTATGTGGAAGGGGCT   3660
+                     |                |||      |.|.||.|.|.|||.|||.|..||
+c180685339-18   7726 TGGCACTGTACATATTGGAGGTTTGTGGCTACATCTGTGTAGAAAGATCT   7775
+
+c63361349-633   3661 GCCTTGTGTCTGGCCCACTCTGC---CCGTCCCACCAGGGGCTGGGGATT   3707
+                     .||||||||||||||..||.|||   |  |.||||.|.||| |.|||||.
+c180685339-18   7776 ACCTTGTGTCTGGCCTGCTTTGCTTTC--TTCCACTAAGGG-TTGGGATC   7822
+
+c63361349-633   3708 CA-----------------------CCTGTGCCCCCTTTGCGGGCTCGGA   3734
+                     ||                       |||||| .|||||||.|.|||...|
+c180685339-18   7823 CAGGTGTCCTATCAGTCCCAGCCTGCCTGTG-TCCCTTTGTGAGCTACCA   7871
+
+c63361349-633   3735 TACTTGTTATAGGTGCCATCACCAGGGTCTG--TCCTGGAGGGGAGGGCT   3782
+                     ||..||.||.||.||||.||.|...||||||  |||.|.|    |..|||
+c180685339-18   7872 TATCTGCTACAGATGCCCTCTCTGAGGTCTGCATCCAGTA----AATGCT   7917
+
+c63361349-633   3783 TGTGAGCTGCACGTGTGAGCTCAGGCCCCAGGACTGGCTGCAGAGGAG--   3830
+                     |      |||    .|||..|||..||||||   ||.|.||.||||||  
+c180685339-18   7918 T------TGC----TTGAATTCACACCCCAG---TGTCAGCCGAGGAGAA   7954
+
+c63361349-633   3831 GGTCT--GGAAGACCCAGTGCTTTTCCAACCAGCCCAGGCCAGTGCTGAG   3878
+                     || ||  .|||..||..|||.|||.|.|||         |||.|||||||
+c180685339-18   7955 GG-CTACTGAATCCCTGGTGATTTCCTAAC---------CCAATGCTGAG   7994
+
+c63361349-633   3879 TGGTGGTGAAATGTG---CAGTGTT----GAC----CTGCCCTCCAGCTT   3917
+                     ...|.||||||||||   ||..|.|    |||    |||||     ||.|
+c180685339-18   7995 CCCTTGTGAAATGTGTTCCATGGCTCTACGACATGTCTGCC-----GCAT   8039
+
+c63361349-633   3918 CAAGGGCGACTG-AGAATGACG----------GCTGCAAGGG----GGTA   3952
+                     |||.|||..|.| ||..|||||          ||||.|||||    |.||
+c180685339-18   8040 CAAAGGCCCCCGAAGTGTGACGGCCACATGCAGCTGGAAGGGATATGCTA   8089
+
+c63361349-633   3953 GGGCACGACACTGGGCAGGAGGGCCAGGCCTGGCCACGTGAAG------C   3996
+                     ||..|.||           ||..|||.||.| |||||    ||      |
+c180685339-18   8090 GGAAAGGA-----------AGACCCAAGCAT-GCCAC----AGCCAGATC   8123
+
+c63361349-633   3997 TGGTTCTGAGGACCCTGGAG--CTT--------CCTCAGACACAC-----   4031
+                     | |||||||.|||||.||||  |||        ..|||||||..|     
+c180685339-18   8124 T-GTTCTGATGACCCCGGAGGCCTTATGGGATGAATCAGACAGTCTTCCA   8172
+
+c63361349-633   4032 ---------------GGGATG-----AGGTCCTGAGGGGATGAGG-TCCT   4060
+                                    ||.|||     |||||.||..||||.|||| |.||
+c180685339-18   8173 TTCCCAGCTTCCTTGGGTATGGGTCAAGGTCATGCAGGGAAGAGGTTGCT   8222
+
+c63361349-633   4061 G----------TGGGGAGATATG-GCC------------CTGCAC-GGA-   4085
+                     |          .|.|.|||.||| |||            |.|||| ||| 
+c180685339-18   8223 GCAGACTAGCTCGTGCAGAGATGAGCCGGCTCATGCAGGCAGCACAGGAA   8272
+
+c63361349-633   4086 -------------GA--------CATGGTCTGT---------------GG   4099
+                                  ||        |||  |||||               ||
+c180685339-18   8273 GCAGCAGCCTATTGACTGTTGTGCAT--TCTGTCTTCTCTCCCAGGGAGG   8320
+
+c63361349-633   4100 GGACGTGGTCTG-----TGGG----------ACGTG--------------   4120
+                     ||||.|||.|.|     ||||          |.|||              
+c180685339-18   8321 GGACTTGGCCAGGCAACTGGGTGACCTTCCTAGGTGACTCTACTGGAGAT   8370
+
+c63361349-633   4121 ------GTCCTGTGG--GGACATGGTCA----GTGGAG------------   4146
+                           |.||||.||  ||.|||  |||    |||.||            
+c180685339-18   8371 GACCCAGGCCTGAGGCTGGGCAT--TCAGGGGGTGCAGCCTGCCCACACA   8418
+
+c63361349-633   4147 -------------------ATGTGG------------TCCTG--------   4157
+                                        .|||||            ||.||        
+c180685339-18   8419 TGCCAGCCTATTAGGATTTTTGTGGGGCAGGAGTTATTCTTGGCAGGGCA   8468
+
+c63361349-633   4158 --------------TGGGTTGT---------GGTCCTGTGGGAA---TG-   4180
+                                   ||||.|.|         ||||||.||.|||   || 
+c180685339-18   8469 CTTGCTGGATGTCTTGGGATCTCCTTGGTTAGGTCCTCTGAGAAGCCTGT   8518
+
+c63361349-633   4181 TGGTC---------CTGTGGAGACG-------TGGTCCTG--TGG-----   4207
+                     |.|||         |||..|||| |       |||||..|  |||     
+c180685339-18   8519 TTGTCATGCTTAGGCTGATGAGA-GAAAATGTTGGTCTAGATTGGTAAGT   8567
+
+c63361349-633   4208 -------------------GGACACGGTCCGTGGAGAC----GTGGTCCT   4234
+                                        |.|||| .||     ||||    |||.| ||
+c180685339-18   8568 AAGCTGCCTAGTATGAGATGCACAC-ATC-----AGACCTTTGTGCT-CT   8610
+
+c63361349-633   4235 GTGGG-------AATGTGGTC------CTGTGGGGATGTGGTT-------   4264
+                     .||||       ||||..|||      ||||.||..||.|.||       
+c180685339-18   8611 CTGGGATGACTCAATGCTGTCCCCAAACTGTAGGCTTGAGTTTGCAGGCC   8660
+
+c63361349-633   4265 -CT-GTGGGGAC---GTGGTCCGTGGAGATGTGG------------TCCT   4297
+                      || .||||.||   ||.|  |.||.||||.|||            |.||
+c180685339-18   8661 CCTCCTGGGTACTGAGTAG--CTTGAAGATATGGCTATGTCTGCCTTTCT   8708
+
+c63361349-633   4298 GT---------------------------GGGTTGT----------GGTC   4310
+                     ||                           ||.||||          ||||
+c180685339-18   8709 GTCTTCTCAGACCCCTGTGCCTGCACCAGGGCTTGTTCTCCACAAGGGTC   8758
+
+c63361349-633   4311 CTGT--------GGGG-------------ACGTGGTTCTGTGGGGA----   4335
+                     ||||        ||||             .|.||||.||.|    |    
+c180685339-18   8759 CTGTCTATTTTAGGGGCTGACTACTCAGACCATGGTACTCT----AACCT   8804
+
+c63361349-633   4336 TGTGGTCC---------ATG-----GAGATGTGGTCGGTGGGGACGTGGT   4371
+                     |.||.|||         |||     |||           |||..|.|  |
+c180685339-18   8805 TCTGTTCCCCACAAAGAATGCAACAGAG-----------GGGCCCAT--T   8841
+
+c63361349-633   4372 CCTGTGG---GGATGTGG----AAGG---AGGTGGGTGGGGTGGGTCGGA   4411
+                     |||.|.|   .||.|.||    ||||   ||| ||||  |||.|||.|..
+c180685339-18   8842 CCTATAGCACAGAGGGGGACTAAAGGCATAGG-GGGT--GGTAGGTAGAT   8888
+
+c63361349-633   4412 AGGGGCTGGG---GTGAG--------------------TGGCCCAG----   4434
+                     .|||||.|.|   ||.||                    |||||.||    
+c180685339-18   8889 TGGGGCAGAGGATGTAAGAAACCTCACAGAAGAAACTATGGCCTAGATCT   8938
+
+c63361349-633   4435 -------CTGCAC--------ACA--GTGACCTTGA-GTGA------CAG   4460
+                            ||| ||        |||  |||||||||| ||||      |||
+c180685339-18   8939 CCTCAGCCTG-ACTGGTTGTTACATGGTGACCTTGAGGTGAAACTATCAG   8987
+
+c63361349-633   4461 ----GTCCCACCTGCTCAGGTCATGAGGCACAGTCCTGGAGGGGCCACCC   4506
+                         ||||        ||||..||                    |||||.
+c180685339-18   8988 AATCGTCC--------CAGGATAT--------------------CCACCT   9009
+
+c63361349-633   4507 TGGC-CAGCA--GTGG-----------AA-----CCCACTTATGTGCCAG   4537
+                     |||| |.|.|  ||||           ||     ||||       |||||
+c180685339-18   9010 TGGCTCTGGAAGGTGGGTAGTTTTGTCAAGACCTCCCA-------GCCAG   9052
+
+c63361349-633   4538 GGGCAGCTTTGCTGGCTGTGTGTGCCCACATGGGGGCCTT--GTCTGCAG   4585
+                     .|   ||||||.||||.|        ||||||||    ||  .|||||||
+c180685339-18   9053 TG---GCTTTGATGGCAG--------CACATGGG----TTTCATCTGCAG   9087
+
+c63361349-633   4586 AGGGGCTGCCCCCAAGGGCCGGGAGGGAGCAAGGCAGGTGGGCAGAAGGA   4635
+                     ||||          ||   .||.|||||||||.|..|||||  |.|||| 
+c180685339-18   9088 AGGG----------AG---AGGAAGGGAGCAATGTGGGTGG--AAAAGG-   9121
+
+c63361349-633   4636 GGCTCCCCATGCCCGCCACACCTGTC-CTTAGCTGG--GGAAGCCT--GT   4680
+                                          ||||| .||..||||  .||||.||  ||
+c180685339-18   9122 ---------------------CTGTCAGTTTTCTGGAAAGAAGACTCAGT   9150
+
+c63361349-633   4681 -----GAG---GCCGCCGA-CTCCTCTCCAGTTTCCTGCTGGAGATGTTT   4721
+                          |||   |..||.|| ||..||..|| |.||||.||||| |.|.||
+c180685339-18   9151 CTACAGAGCTTGGAGCTGAGCTTATCCGCA-TGTCCTTCTGGA-AGGGTT   9198
+
+c63361349-633   4722 ---GTGGCCTTGTCCCCACATCCCTAGGTCCCCTCAGAG----TC-CCCA   4763
+                        |.|.|||.|||.|| .||||||||.||||||.|| |    || ||||
+c180685339-18   9199 CCAGGGTCCTCGTCTCC-TATCCCTAGTTCCCCTTAG-GCTGCTCTCCCA   9246
+
+c63361349-633   4764 TCCTGGGCTCGGC--TGCCTCCAGGGACGGGGCACTCACCCCCTCCACAG   4811
+                     .|  ||   ||||  |.|||.|||||..|.|||||||...||.|||..|.
+c180685339-18   9247 GC--GG---CGGCGTTACCTACAGGGCTGAGGCACTCCTTCCTTCCTGAA   9291
+
+c63361349-633   4812 GTCGCCCGTCCACCATATCTTGCCCTGGCCGTGT-CCTTGTGCCAG-TGG   4859
+                     ||                 ||        .|||| .|||.| |||| |.|
+c180685339-18   9292 GT-----------------TT--------AGTGTGGCTTAT-CCAGCTAG   9315
+
+c63361349-633   4860 CTGTAGATGAGGAAACCTAGGGCCAGAGAAAGACACCAAGGGGTCACTG-   4908
+                     ||.|.|||.||.|.|..||||    ..|.||.|.|.|    .||.|||| 
+c180685339-18   9316 CTATGGATAAGTAGATGTAGG----TTGGAACATATC----TGTTACTGA   9357
+
+c63361349-633   4909 -----GCCCC------CTTCCTCTCTCGGTGCCCTAGGATGAGAAGAACC   4947
+                          |||.|      |||.||..|| .|||||||||||||||||.||||
+c180685339-18   9358 GGAGAGCCTCAAGCTTCTTTCTTACT-TGTGCCCTAGGATGAGAAAAACC   9406
+
+c63361349-633   4948 AGATGATGACCACGAACGTATGGGTGAAGCAGGTGAGTGGGAGG----GC   4993
+                     ||||||||||.||.|||||.||||||||||||||.||||||.||    ||
+c180685339-18   9407 AGATGATGACGACCAACGTGTGGGTGAAGCAGGTAAGTGGGGGGGGGAGC   9456
+
+c63361349-633   4994 ACTGCCCTGCCCCACCCCTGCCCTCCCCCACACCCCTCACCCTGCTGCCC   5043
+                     |       .|||||||.|||||||                    ||||||
+c180685339-18   9457 A-------TCCCCACCTCTGCCCT--------------------CTGCCC   9479
+
+c63361349-633   5044 TGTCCTGGCCCTGCCCCACCCTGGCCCTGCCCCACCCCTGCCCTCCCTCA   5093
+                     |||              |.||                       ||||||
+c180685339-18   9480 TGT--------------ATCC-----------------------CCCTCA   9492
+
+c63361349-633   5094 CACCCCTCACCCTGCTGCCCCACCCTGGCCCTGTCCCGCCCCTGCCCTCC   5143
+                     ||                     |.||||.||                  
+c180685339-18   9493 CA---------------------CATGGCTCT------------------   9503
+
+c63361349-633   5144 CTCACACCCCTCACCCTGCTGCCCTGCCCTGGCCCTGCCCCTGCCCCACC   5193
+                                                                       
+c180685339-18   9504 --------------------------------------------------   9503
+
+c63361349-633   5194 CTGGCCCTGTCCCGCCCCTGCCCTCCCCCACACCCCTCACCCTGCAGCCT   5243
+                                                ||||.||                
+c180685339-18   9504 ---------------------------CCACTCC----------------   9510
+
+c63361349-633   5244 CCCCCCGCCCCACCTCATCCAGGAGTGGCACGACTACAAGCTGCGCTGGG   5293
+                                    ||.||||||||||||.||||||||.||||||||||
+c180685339-18   9511 ---------------CACCCAGGAGTGGCATGACTACAAACTGCGCTGGG   9545
+
+c63361349-633   5294 ACCCAGCTGACTATGAGAATGTCACCTCCATCCGCATCCCCTCCGAGCTC   5343
+                     ||||.|.||||||.||||||||||||||||||||||||||.||.||.|||
+c180685339-18   9546 ACCCTGGTGACTACGAGAATGTCACCTCCATCCGCATCCCATCTGAACTC   9595
+
+c63361349-633   5344 ATCTGGCGGCCGGACATCGTCCTCTACAACAAGTGAGTCCTCTACAACAA   5393
+                     ||||||.||||.||||||||||||||||||||||.||.|.|         
+c180685339-18   9596 ATCTGGAGGCCTGACATCGTCCTCTACAACAAGTAAGCCGT---------   9636
+
+c63361349-633   5394 GTGAGTCCTCTACAGGGCCTTGGTGGGCAGGAGTGGCCAGGGCCTGCCCC   5443
+                     |||.|.|||                ||||||.|.|..||||      |||
+c180685339-18   9637 GTGGGCCCT----------------GGCAGGTGAGATCAGG------CCC   9664
+
+c63361349-633   5444 TGCCCAGACAGGGAGCTCCACCAAGGCCCAGCCTGGCCCAGCGGGGCCTA   5493
+                     ..|||||..|||.|||||                                
+c180685339-18   9665 CACCCAGCAAGGAAGCTC--------------------------------   9682
+
+c63361349-633   5494 TGCCAGCCCCATGCATGCCAGCCCAGGCCCAGGAAGGAAGAAGCAGGAGC   5543
+                                                      .|||||.||..||||||
+c180685339-18   9683 ---------------------------------TAGGAACAAAGAGGAGC   9699
+
+c63361349-633   5544 AA-TGGAGA--AA-----------TTGGTGTGGGTTGAGGA----GGGAA   5575
+                     || ||||||  ||           ||||||||||    |||    |||| 
+c180685339-18   9700 AACTGGAGAGGAAGCCCAATGGGCTTGGTGTGGG----GGACCTGGGGA-   9744
+
+c63361349-633   5576 GGGTCCC----CCCAGGCCAGCAAAGAGGCT-GAGGGCATCCCTGGGTCT   5620
+                        |.||    |.||           ||.|| ||||.|.||         
+c180685339-18   9745 ---TACCTGCTCTCA-----------AGTCTGGAGGACTTC---------   9771
+
+c63361349-633   5621 CAGCACTGGAGC--GTCAGAGCCGGAGGGGCCTGAGAGTGGCTATGGCAC   5668
+                     ||||.||   ||  |||   .||..||||  |.||||.|||.|       
+c180685339-18   9772 CAGCTCT---GCTTGTC---TCCTAAGGG--CAGAGAATGGAT-------   9806
+
+c63361349-633   5669 CTGGACACAGTGTCCCTGCCTGGACCAGTCCTGAGGCCTGGGGGCTGGCT   5718
+                      ||||||     |||             ||||     ||||..| |||||
+c180685339-18   9807 -TGGACA-----TCC-------------TCCT-----CTGGCAG-TGGCT   9831
+
+c63361349-633   5719 CCTGACCCGCGACGTCTTTGCCCCCACCCTTGA-------CAGCTGCAGG   5761
+                     .|         |.||       ||||.||||.|       ||  ||||..
+c180685339-18   9832 GC---------AGGT-------CCCATCCTTAAACTCTTCCA--TGCACA   9863
+
+c63361349-633   5762 AG----AGCCCTTTTGGGCAGGAGTGCTTTTCGCCATCAGACCCCATCCT   5807
+                     ||    ||    |||||          ||           ||||.||   
+c180685339-18   9864 AGTCACAG----TTTGG----------TT-----------ACCCAAT---   9885
+
+c63361349-633   5808 GGCCTTTCTGGGAGAATAGTGTGGACTGCAGGGTGCCCTGGA--GAGGG-   5854
+                                |||             |||||       |||  .|||| 
+c180685339-18   9886 -----------GAG-------------GCAGG-------GGATTCAGGGA   9904
+
+c63361349-633   5855 GT-GAGGAAGCCCCAGA----TGG-TTCTCATGCCACTAGG----GCCTC   5894
+                     || ||..|||..|.|||    ||| |.||    ||||.|.|    |||||
+c180685339-18   9905 GTAGATAAAGAACAAGAGAAGTGGCTGCT----CCACAAAGCTTAGCCTC   9950
+
+c63361349-633   5895 TGCT-TTCT-----CTGCATACTCACGCTCTGCCCA-----GGACATGTC   5933
+                     |||| ||||     |.||.|  |||.|||.|..|||     ||.|||   
+c180685339-18   9951 TGCTCTTCTTGGGCCCGCCT--TCATGCTGTATCCAACACTGGGCAT---   9995
+
+c63361349-633   5934 ACGCCAGGTCCCCAGCAAACAAACAAAGC-CTCGGGCTGGGC-CAAGCCC   5981
+                        ||||    ||||.|.|.||||    | |||..|.|..|| ||..|||
+c180685339-18   9996 ---CCAG----CCAGTAGATAAAC----CTCTCAAGATCAGCTCACACCC  10034
+
+c63361349-633   5982 ATGTC-AGGCTCCTAGGAGGCCAAGATGAAGTCTGGTCA--TGGAAACGG   6028
+                      |||| .|||.|||.|      |||.|||||||    ||  ||||.||  
+c180685339-18  10035 -TGTCTCGGCCCCTGG------AAGCTGAAGTC----CACGTGGAGAC--  10071
+
+c63361349-633   6029 GTTTTCTGTGCCTGGAAGCCAGGGCAGCGTTGCCACGGATTGGCCGTGGC   6078
+                                   .||.||||                 ||.|..|||.|
+c180685339-18  10072 --------------AAACCCAG-----------------TTAGTGGTGAC  10090
+
+c63361349-633   6079 -AGATGGTGGCCTCCGGAGGCTGCTGTCCTCTAACTTGTCCTTCCTGCAG   6127
+                      |||         |.|||||..|...|..||..|||||||.||       
+c180685339-18  10091 AAGA---------CAGGAGGTAGGCATTTTCACACTTGTCTTT-------  10124
+
+c63361349-633   6128 ATCTGTGCCGAGGGCCCTGCGCCCGGCAGCCAGC--GCTCTCTGAGCTGA   6175
+                            |||.|||.|||| |.|..|.|| ||||  |.|.||..||||||
+c180685339-18  10125 -------CCGGGGGACCTG-GACTAGGAG-CAGCTGGTTTTCGAAGCTGA  10165
+
+c63361349-633   6176 GTCCTCCAGG-GATGATCTCTGGCCACAGGCTCAGGGTCTGGGTGTGGCA   6224
+                     ||     ||| ||||.|||.|..|      |||.||||||||||| ||||
+c180685339-18  10166 GT-----AGGTGATGTTCTATTCC------CTCGGGGTCTGGGTG-GGCA  10203
+
+c63361349-633   6225 GGGTCACAGCTCCC---------ACAAACAAAGCAAATGGAAGCTCTTCC   6265
+                     |     |||||.||         |||.||||||||||..||||.|||||.
+c180685339-18  10204 G-----CAGCTTCCACAGTGCTTACAGACAAAGCAAACCGAAGATCTTCT  10248
+
+c63361349-633   6266 TCCTCTCCCGTCCCAGCCATCTGCCCACAGCCCTTTCCAGGCCCCAGGGC   6315
+                     .||.|.||.||||||||||||||||.|||||||..|||||||||..|||.
+c180685339-18  10249 ACCCCCCCAGTCCCAGCCATCTGCCAACAGCCCCCTCCAGGCCCTGGGGT  10298
+
+c63361349-633   6316 ACCCGCCTGACCTACAAACCCTGCTGTATGATTAAGAACGATTGGGCTCC   6365
+                     .||.|.||||||||||||..||.|..|.||||||||||.||.||.|.|.|
+c180685339-18  10299 GCCTGTCTGACCTACAAATGCTCCCATTTGATTAAGAATGACTGAGATTC  10348
+
+c63361349-633   6366 TCTTCCAACTCAATTGATTCCAGTAAT-GGCAGCGGGAAGGGCCTC--CG   6412
+                     ||||||...|.||||||.|..||||.| ||||          |.||  ||
+c180685339-18  10349 TCTTCCTCTTTAATTGAGTGGAGTACTAGGCA----------CATCCTCG  10388
+
+c63361349-633   6413 GCAGTG----------GGAGGGCCGGACGCTTTTCCAGAGTGCATTGGGG   6452
+                     || |||          .|||||     .|.|||||.|||.||..||..||
+c180685339-18  10389 GC-GTGTAGAATGAGCTGAGGG-----TGGTTTTCTAGAATGTGTTATGG  10432
+
+c63361349-633   6453 AGGTGGTCAGTGGTGAGTGGGCA---GC--GGG--TGG------------   6483
+                     |  |||  |.|...||.||.|||   ||  |||  |||            
+c180685339-18  10433 A--TGG--ACTTAAGAATGAGCATATGCCAGGGAATGGAAGTCTCCAATT  10478
+
+c63361349-633   6484 -----TCTTCCCTTAGGACAGACTCCCTGCCCCCTGCAAGCCACCCAGCC   6528
+                          ||||||||     ||.|.|.||||.|..|||||      .||||.
+c180685339-18  10479 CCCGCTCTTCCCT-----CAAAATGCCTGTCTTCTGCA------GCAGCA  10517
+
+c63361349-633   6529 ACCTAGCTCCCCGCCACCAGGACCATGCACCGAATCCGCCTGTGTGACTC   6578
+                     |.|.||||                       |||    |||   |||   
+c180685339-18  10518 ATCCAGCT-----------------------GAA----CCT---TGA---  10534
+
+c63361349-633   6579 GCATGGACACATTTCAGGGAGAAGTGGAAACGCCCAGGATGGGCCGGGCA   6628
+                                                    ||||.|||           
+c180685339-18  10535 -------------------------------GCCCTGGA-----------  10542
+
+c63361349-633   6629 GAGAAGCCGCTCTGG---GTGCCTGTGCACAGCCCTCCAGGAATGCAGCC   6675
+                        |||  ..|||.|   ||||.|||.| || |||||   |||     ||
+c180685339-18  10543 ---AAG--TTTCTAGCTAGTGCTTGTTC-CA-CCCTC---GAA-----CC  10577
+
+c63361349-633   6676 C------CCAGGAACGAAGC--CTCTGAGGACCACAGCCCCCACTGTGAC   6717
+                     |      |.||||..|||.|  |||||.|     |||  ||.|.||    
+c180685339-18  10578 CTGGGATCAAGGACTGAATCTACTCTGGG-----CAG--CCTATTG----  10616
+
+c63361349-633   6718 CTCAAACCC----CCAGGACCACAGCCC--------CCCGAGTACT----   6751
+                         |||||    |.||||    ||..|        ||.||||..|    
+c180685339-18  10617 ----AACCCATGGCAAGGA----AGGACATGTATTTCCTGAGTGGTATTT  10658
+
+c63361349-633   6752 -----GCAGCCCCCCCCACTTCCACAGCCTCACCAGGACCACGGCCCTCC   6796
+                          ||||                         ||||..|         
+c180685339-18  10659 GTTAGGCAG-------------------------AGGAGTA---------  10674
+
+c63361349-633   6797 AAAGACTGCAGCCCCCACCAGGTTCAC--AGCTCCCCCAGGACCACAGTT   6844
+                            .||||     ||||   |||  ||||                 
+c180685339-18  10675 -------TCAGC-----CCAG---CACTAAGCT-----------------  10692
+
+c63361349-633   6845 CCTCTAGGACCACAGCCCCCTAGGACCACAGGCCCCCAGGACCACATTCC   6894
+                                            ||..||||||.|.|||           
+c180685339-18  10693 -----------------------GAGAACAGGCACTCAG-----------  10708
+
+c63361349-633   6895 CTGCCAGGACCACAGTCCTCCCAGGAC------TTCATC------CCACC   6932
+                          |.||||.||..|.||..|||.|      ||.|||      .||..
+c180685339-18  10709 -----AAGACCTCACCCGTCTAAGGTCACCTTTTTAATCTCTCGTACATG  10753
+
+c63361349-633   6933 CTAGGGCTACAGTGCCTCCTGCAGAACTGCAGCCCCCACAAGGATCACAG   6982
+                     ||| ||.|||.|||        |.|...|||||||||          |..
+c180685339-18  10754 CTA-GGATACTGTG--------AAAGGGGCAGCCCCC----------CTT  10784
+
+c63361349-633   6983 TTCTTGCCTGACCACAGCCCCCTAGGACTACAACACCCCTAGGA---CAG   7029
+                     ||.|||                |.||.||            |||   .||
+c180685339-18  10785 TTTTTG----------------TGGGGCT------------GGAGATGAG  10806
+
+c63361349-633   7030 CAGCTCCCCCCCAGGACCACAGCCCCCTAGGACCACAGCCCCCCAGGAC-   7078
+                     ||..|      .|||.|.|        |..||          .|||||| 
+c180685339-18  10807 CATTT------GAGGTCTA--------TCTGA----------ACAGGACT  10832
+
+c63361349-633   7079 TACAGCCCCCCAGGACCACAGCCCCATT--TAGGACCACAGCCCCCTAGG   7126
+                     |..|||...|.|||           .||  |||||        |.||.|.
+c180685339-18  10833 TGGAGCTGGCGAGG-----------GTTGATAGGA--------CTCTGGT  10863
+
+c63361349-633   7127 ACCA-CAGCCCCCCAGGACCACAGCCCCCCCAGGACCACAGCCCCCCAGG   7175
+                     .||| |||       |||..|                             
+c180685339-18  10864 GCCAGCAG-------GGAAGA-----------------------------  10877
+
+c63361349-633   7176 ACCACAGGCCCCCAGGACCACATTCCCTGCCAGGACCACAGTCCTCCCAG   7225
+                          ||||           ||||.||.|         |||||.|  |||
+c180685339-18  10878 -----AGGC-----------CATTTCCAG---------CAGTCAT--CAG  10900
+
+c63361349-633   7226 GACTTCATCCCACCCTAG------GGCT----ACAGTGCCTCCTGCAGA-   7264
+                     .|.||        .||||      ||||    .|||||    |||  || 
+c180685339-18  10901 CAGTT--------GCTAGCCAGATGGCTGGTCCCAGTG----CTG--GAC  10936
+
+c63361349-633   7265 ACTGCAGCCCCCACAAGGATCACAGT--TCTTGCCTGACCACAGCCCCCT   7312
+                     ||.|.||.|||         |||.||  |.|||.||             |
+c180685339-18  10937 ACGGGAGTCCC---------CACTGTTGTGTTGACT-------------T  10964
+
+c63361349-633   7313 AGGACTACAACACCCCTAGGACCGCAGCCC-------CCCCGCCAGGACC   7355
+                     .||.||.|  |.|.||| |||    |||||       |.||.||.||  .
+c180685339-18  10965 GGGGCTCC--CTCTCCT-GGA----AGCCCAGAAGCTCTCCACCTGG--T  11005
+
+c63361349-633   7356 ACAGCCC---CCCAGGACCACAGACCT--CCCAGGACCGCAGCCCCCCCG   7400
+                     ||||..|   |..|||..|.||.||.|  |.|.|||..||||||      
+c180685339-18  11006 ACAGGGCAAACGGAGGGTCTCACACTTGCCTCTGGAATGCAGCC------  11049
+
+c63361349-633   7401 AGGGTCACA-------GCCCCCTAGGACCACAGCCCCCCAGGACCACAGC   7443
+                         |||.|       |||.|.||||              |||..|    
+c180685339-18  11050 ----TCATATGATGAGGCCTCTTAGG--------------GGAAGA----  11077
+
+c63361349-633   7444 CCCCCAGGACCACAGCCCGCTAGGACCACAGTCCCCCCAGAACCACAGCC   7493
+                         .||||         .||.|||||                  ||.||
+c180685339-18  11078 ----TAGGA---------TCTGGGACC------------------CACCC  11096
+
+c63361349-633   7494 CCCCCGAG-----GGTCACAGCCCCCTAGAACCACAGCCCCTCCAGGACC   7538
+                     .|||||||     ||   |.|.|.|.|.|||          ||||..|.|
+c180685339-18  11097 TCCCCGAGCTACTGG---CTGGCTCATTGAA----------TCCACTAAC  11133
+
+c63361349-633   7539 ACAGCCCCCTCTAGGACCATAGCCCCCTAGGACCGCAGCCCCCTAGGACT   7588
+                     .||   |.||   |||            |||         |.||||.|| 
+c180685339-18  11134 TCA---CACT---GGA------------AGG---------CTCTAGAAC-  11155
+
+c63361349-633   7589 ACAGCCCCCCAGGACCACA-------GCCTCCTAGGACCACAGCCCCC--   7629
+                                   |||.|       ||.||||              |  
+c180685339-18  11156 --------------CCAAATGCCTGTGCTTCCT--------------CTG  11177
+
+c63361349-633   7630 ----CCAGGACCGCAGCCCCCCCAGGACCACAGCCTCCTAGGACTGCAGC   7675
+                         ||.||               |||       |||..|||  |||||.
+c180685339-18  11178 GTTTCCTGG---------------GGA-------CTCTAAGG--TGCAGA  11203
+
+c63361349-633   7676 CCT-----CCCAGGA-CCACAGCCCCCTAGGACTACAGCCCCTCCAGGAC   7719
+                     .||     ||.|||| |||.|   .|||.|         ||||.||    
+c180685339-18  11204 ACTGGAAACCGAGGACCCATA---TCCTTG---------CCCTGCA----  11237
+
+c63361349-633   7720 CACAGCCCCCTCTAGGACCACAGCCCCCTAGGACTGCAGTCCCCCCAGGA   7769
+                      .||||..||| |.|     |||      ||.|.|||.|           
+c180685339-18  11238 -TCAGCAACCT-TGG-----CAG------AGAAATGCTG-----------  11263
+
+c63361349-633   7770 CCGCAGCC-CCCCCAGGA-----CCACAGCCCCTCCAGGACCATGGCCCC   7813
+                       .||||| ...|.||||     |.|       |||.||..|||||   .
+c180685339-18  11264 --ACAGCCTATTCAAGGAATTTGCTA-------TCCTGGTACATGG---G  11301
+
+c63361349-633   7814 CT-CTAGGACCACAGCCCCCCAGGACCGCAGCCCCC----CCTAGGACCA   7858
+                     || ||||      .|...||..||||.|||          |||..||.||
+c180685339-18  11302 CTGCTAG------TGGTTCCTGGGACTGCA------ATATCCTTTGAGCA  11339
+
+c63361349-633   7859 --CAGCCCCCCCAGGACCACAGCCCCCCTAGGACCACAGCCCCCTAGGAC   7906
+                       |.|       ||.|||..|    ||||.||         |.||||||.
+c180685339-18  11340 TTCTG-------AGTACCTTA----CCCTTGG---------CACTAGGAG  11369
+
+c63361349-633   7907 CA-------CAGCTCAGGAG-AG--CAGGGATTGCTGCCACCCCATGT--   7944
+                     .|       |||| |||.|| ||  ||..||.|||||  |.||| |||  
+c180685339-18  11370 AAGAAAAAGCAGC-CAGAAGTAGCACACAGAGTGCTG--AGCCC-TGTAG  11415
+
+c63361349-633   7945 --TCTCCTGTGTCTCCTCCTCACCATGGCCTGTGGGATGTAGTGGGGTGA   7992
+                       |||.|  ||||.|||  ||.||||             .|.|||||   
+c180685339-18  11416 ACTCTAC--TGTCACCT--TCTCCAT-------------AACTGGGG---  11445
+
+c63361349-633   7993 CCCCAGTTTTCTCTTTGGGGCTGGGATTGTCACCGAGGCTCTCTCCGGA-   8041
+                                 |||||    |||.|.|||||           |..||| 
+c180685339-18  11446 ------------CTTTG----TGGCAGTGTCA-----------TGTGGAA  11468
+
+c63361349-633   8042 -CAGGACCCAGGGTTCCTGGAGTGGCCGCTGGTGCTGGG----TCTGCT-   8085
+                      ||||.||   ||..||||.|         ||.|.||||    .||||| 
+c180685339-18  11469 GCAGGGCC---GGAACCTGAA---------GGAGATGGGCTGCACTGCTA  11506
+
+c63361349-633   8086 CCCGCTGAGGA----GGCCTGTTTCTGGGGCAGCAG-GTGGCTGTGGCTG   8130
+                     |||.|.|||.|    |.|||          ||| || |||          
+c180685339-18  11507 CCCTCAGAGAACTCCGTCCT----------CAG-AGAGTG----------  11535
+
+c63361349-633   8131 GTGGCCGGCCAGGCTGCAGGGTGGGAGGCCTCGGCCCTTCTCTG------   8174
+                                   |||| ..|||||    ||      ||||||      
+c180685339-18  11536 --------------TGCA-CTTGGGA----TC------TCTCTGCAAACA  11560
+
+c63361349-633   8175 -----------GGATTTGGCCACCCCCAGTTGGGGGCCCTGCTGTCCACT   8213
+                                |.|||        |.|||..||..||      ||.||||
+c180685339-18  11561 CAAGCCCAGAAGCATT--------CTCAGAGGGAAGC------GTACACT  11596
+
+c63361349-633   8214 TGGGGCAGGT------GC-CCAGAAATCCCTGACCTGGACTGGGGTCGGG   8256
+                          |||||      || |.|||||.|.|.||                 
+c180685339-18  11597 -----CAGGTTTAGGAGCTCTAGAAAACTCAGA-----------------  11624
+
+c63361349-633   8257 GTGGAGGGGACAGAGGGTCTCACGCCAGCCTG--TGGGCCCTGGAGCAGG   8304
+                        .|||||||             ||||||.|  |.|||   .|.|||||
+c180685339-18  11625 ---AAGGGGAC-------------CCAGCCAGGCTAGGC---AGGGCAGG  11655
+
+c63361349-633   8305 AACCTGGACCTGCTGGACTGGGCGGCTCCTCAGACCC-----TGTCTGCT   8349
+                     .|    ||.|.|.||.|||            ||.|||     ||.||   
+c180685339-18  11656 GA----GAGCAGTTGTACT------------AGCCCCAATTGTGACT---  11686
+
+c63361349-633   8350 CCCAG----GGTGCAGCTTTATGGTGCGAGTCCAGAGCCGGCTCACGGCC   8395
+                        ||    ||||.||               .||||              
+c180685339-18  11687 ---AGTACTGGTGAAG---------------GCAGA--------------  11704
+
+c63361349-633   8396 GGGTGGTTCAGCCCAAACGGGGTTCTCCTCAAAGGC----TCCCCAGAGG   8441
+                           |.||.||   ||.|   |.||||.|   ||    |||||  ||.
+c180685339-18  11705 ------TGCAACC---ACAG---TATCCTGA---GCTGAGTCCCC--AGT  11737
+
+c63361349-633   8442 GCGGCTGGAGCCAGGGGTGGG----CGGGGCAGGGAGCAGCAGTGATGCA   8487
+                     |.|.||     ||||||||||    |..|.|     .||        |||
+c180685339-18  11738 GTGTCT-----CAGGGGTGGGAAATCTAGAC-----TCA--------GCA  11769
+
+c63361349-633   8488 GCCCAGGGGTGCTG----TGGGACCTGGGGGCTGGGG--------GACCT   8525
+                     .|||||    ||||    |||||       |||..||        ||   
+c180685339-18  11770 ACCCAG----GCTGCAGATGGGA-------GCTACGGATTCAAGTGA---  11805
+
+c63361349-633   8526 GGCCCTGACCTTGTCCCGTTTCCTGTGGCGCGGGCAGAGGACCCTGGGGG   8575
+                      |||||||                       ||||     .|||||    
+c180685339-18  11806 -GCCCTGA-----------------------GGGC-----CCCCTG----  11822
+
+c63361349-633   8576 AGGGGGGCCCTGCCCAGAGTGGCGCAGACCTGCACTGTTCCCTGAGCATG   8625
+                             .|||||             |.|||    |||.|   ||||| 
+c180685339-18  11823 --------TCTGCC-------------AACTG----GTTGC---AGCAT-  11843
+
+c63361349-633   8626 GC-CCTGGCGTTCCCTGTAGAGTGTGTGCTGAACAGAGTAGTCACCCGCT   8674
+                      | ||| ||.|.||||..|||.|.|.|||  ||||.||.||  |.||.||
+c180685339-18  11844 -CTCCT-GCCTGCCCTCCAGAATATTTGC--AACACAGAAG--ATCCACT  11887
+
+c63361349-633   8675 ---TGCCA-TATGAGAATCTTTTAATTTGTGCCTCAGAAGGTGGA-----   8715
+                        ||.|| ||.|||||  |||.||||||||||        ||||     
+c180685339-18  11888 CACTGACAGTAGGAGAA--TTTAAATTTGTGCC--------TGGAGTGTT  11927
+
+c63361349-633   8716 -GGGCGTTGGTTTTTGGAGAGATGGG-CTGGGGAGAGGGA---GCAAACT   8760
+                      ||||.|||.|||||||||||||||| || |.||||.|||   |.||.| 
+c180685339-18  11928 TGGGCTTTGATTTTTGGAGAGATGGGACT-GAGAGAAGGAAATGAAACC-  11975
+
+c63361349-633   8761 TGAGCCTGATTCCACCCAGACTGACTTGGTGGTAAAGCCCCGC-------   8803
+                      .|||||||||||||.|.|.|.||         ||.|..||||       
+c180685339-18  11976 -AAGCCTGATTCCACACGGCCCGA---------AATGTGCCGCAAGATCC  12015
+
+c63361349-633   8804 -CCCCCG-----CTGGAGGGACGCT---------CGGGAGCCAGGCTGTG   8838
+                      ||||||     |.|||||||..||         |||.||||||||||||
+c180685339-18  12016 ACCCCCGTGTACCCGGAGGGAACCTCTGCTTCTGCGGAAGCCAGGCTGTG  12065
+
+c63361349-633   8839 CT-------------GGGCCGGAGCC----------GCA--TTGAGATGC   8863
+                     ||             .|.|.||||||          |||  |.|||| ||
+c180685339-18  12066 CTCTGTGCAACGCGCAGCCAGGAGCCCTGTTGGGGTGCACGTAGAGA-GC  12114
+
+c63361349-633   8864 AGCTGGTGGCTCTTGCTGGGTCTCCCTCCCTCTGCAGCTGAGCGGCAGCC   8913
+                     |    |||..||..|||   |||   |||.|.||||.|..|||..||   
+c180685339-18  12115 A----GTGTTTCCAGCT---TCT---TCCGTATGCATCACAGCTACA---  12151
+
+c63361349-633   8914 CAG-------CCGGCGGTGTTGGCTCAGGACCAGTT------CAGGGGGG   8950
+                     |||       ..||.||..||..|||||||...|||      ||||.|||
+c180685339-18  12152 CAGGAGAAAATTGGTGGCATTAACTCAGGATGTGTTAACGTGCAGGAGGG  12201
+
+c63361349-633   8951 --CAGAG--GCTCAGCACCGACTGAGACCGTGGGGGGC-CAGGTCTCCAC   8995
+                       |||.|  ||    ||||..||||||||.||.|.||| ||.||||.|..
+c180685339-18  12202 TCCAGGGTTGC----CACCTGCTGAGACCATGAGAGGCTCAAGTCTTCTG  12247
+
+c63361349-633   8996 GACCTGGAGGGCA--GAGCTCCAGCAGTGGCGGCTCCA-CAAAGGGAGGG   9042
+                     |||.|   |||.|  |.|.|..||.|.|...||||  | ||.|||.||||
+c180685339-18  12248 GACTT---GGGAATGGTGTTGTAGGATTTTTGGCT--AGCATAGGAAGGG  12292
+
+c63361349-633   9043 TCCCTGAGGGTTGGGAGGGAGGTTGAGGTG----CAGGTCCAGCCCTGGG   9088
+                     .|.|| |.|.||...| |||||.|...|||    |.||||.||.||||.|
+c180685339-18  12293 CCACT-AAGATTCCCA-GGAGGCTACCGTGGGCCCTGGTCTAGACCTGAG  12340
+
+c63361349-633   9089 A--CTCGG---GG---GCAGGCACA-------GAGGAAGCTCAGGGAAC-   9122
+                     |  || ||   ||   |||||..||       ||.|||..||| ||||| 
+c180685339-18  12341 AAGCT-GGTCAGGAAAGCAGGGCCAGTTAGCTGATGAAATTCA-GGAACC  12388
+
+c63361349-633   9123 ---AGTCGCCAGCTCTGCCCAAGTA-CCTGGAG------AGGC------C   9156
+                        |.||     .||||||.|||.| ||||.||      ||.|      |
+c180685339-18  12389 TGGATTC-----TTCTGCCTAAGAACCCTGAAGGACACTAGCCAACGAGC  12433
+
+c63361349-633   9157 CTGGCCTTTGAGCAGGCTCTCAG---------GGAATGAGGCAGAGGAGG   9197
+                     |.|||||.|||| |||     ||         |.|||| |.|||||||||
+c180685339-18  12434 CGGGCCTGTGAG-AGG-----AGGTGGGAGAAGAAATG-GACAGAGGAGG  12476
+
+c63361349-633   9198 GATGGGCAG--GGGT-------------------CCA-GGC----AGCT-   9220
+                     ..|||||||  ||||                   ||| |||    |||| 
+c180685339-18  12477 TCTGGGCAGCTGGGTAAACAGAAGGTTCTAGAGCCCATGGCTCTGAGCTA  12526
+
+c63361349-633   9221 ---TGGC---AGAG-GTGGAG--CA---GGAGGTGT-----GTG-----G   9248
+                        ||.|   .||| ||.|||  ||   |||.|.||     |||     |
+c180685339-18  12527 CACTGTCTTATGAGTGTCGAGACCAAAGGGATGCGTTGCTAGTGCCATTG  12576
+
+c63361349-633   9249 CTGGG---------CAGCCGCTCC------CCC-------------CGAC   9270
+                     |||.|         |||  |||.|      |.|             |||.
+c180685339-18  12577 CTGAGGAATTTAATCAG--GCTTCAGAGAACTCGTTAGCTATAAATCGAG  12624
+
+c63361349-633   9271 GCGTCGTGCCCCAGCG-CCCTCCACAGAGCTGAGCCTGGC--------CC   9311
+                     |..||.||  .||||| ..||     |||||||..|||||        ||
+c180685339-18  12625 GTTTCCTG--TCAGCGTTTCT-----GAGCTGAAGCTGGCAGTGTTTGCC  12667
+
+c63361349-633   9312 CATGC--------------------------CTGCCAACGCT--------   9327
+                     ||.||                          |||..||.|||        
+c180685339-18  12668 CAAGCGCGTTAGTGCATTGCTCTCTCACGGTCTGTGAATGCTAATCTAGG  12717
+
+c63361349-633   9328 -----------------GGG----------------GATTTAA----TGG   9340
+                                      |||                ||..|||    |||
+c180685339-18  12718 ACCAGAGTGATCAGCCCGGGCCCGTGAGGAAGCCAAGACCTAAAGAGTGG  12767
+
+c63361349-633   9341 ------GGCCTCAGGCTTCCCATTGGTGGG------GACT----------   9368
+                           |||| ||||.|||.||     |||      ||.|          
+c180685339-18  12768 CATTATGGCC-CAGGTTTCACA-----GGGCAAATAGAGTAGAGGCGCCG  12811
+
+c63361349-633   9369 -TCTG-----------TGGGTGGGG--GTGGAGG---GTCGGCTGCTGCC   9401
+                      ||||           ||||..|||  |||||||   |..||        
+c180685339-18  12812 CTCTGAAGATCAGTTCTGGGGAGGGTTGTGGAGGCAAGCAGG--------  12853
+
+c63361349-633   9402 CCCGTGAGCCTGGCTGCCTCAGCCCTGAATG-----TGCT-CCTGCAGTG   9445
+                        |||||...||||.|           |||     |||| ||  |||||
+c180685339-18  12854 ---GTGAGGAAGGCTTC-----------ATGGGAGCTGCTACC--CAGTG  12887
+
+c63361349-633   9446 CGTCCCACCCAGCC---------------------AGC--CGCTGTCTAT   9472
+                         .||||.||.|                     |||  |.|..|..||
+c180685339-18  12888 ----TCACCAAGTCATAATGTGTAAAATGAGGTGTAGCATCACCATTCAT  12933
+
+c63361349-633   9473 GGAAC-CAGGGGCTGGGGCTGGGAGCTCTGCCTACCGGGAGGAG----TT   9517
+                     |.|.| ||||||....|||| |||.||||||.|   |.||||||    .|
+c180685339-18  12934 GAAGCTCAGGGGTCAAGGCT-GGAACTCTGCTT---GAGAGGAGGGGCCT  12979
+
+c63361349-633   9518 CAAGGGACATCAGCCCC-TCGCTCCATTGCT----CTG-------TTGCC   9555
+                     .|| |||||.||||||| |.|  |||.||||    |||       ||.||
+c180685339-18  12980 GAA-GGACAGCAGCCCCATTG--CCACTGCTCAACCTGACACACATTCCC  13026
+
+c63361349-633   9556 CA------------------------------CCTGGGC--CTG---TGG   9570
+                     ||                              .|| |||  |||   |.|
+c180685339-18  13027 CAAGTCAGAGAGGCAAGAAGTCAACAATTGACACT-GGCAGCTGGATTAG  13075
+
+c63361349-633   9571 ACAG--------AACACCCA-CGT------------------------CC   9587
+                     ||||        .|||.||| |.|                        ||
+c180685339-18  13076 ACAGCTGGAGTCCACATCCAGCCTGTGCCATGACCTGTAGGGAGGTAGCC  13125
+
+c63361349-633   9588 CCCAA---------GGCA----AAAGAGAG--------------TCCAGA   9610
+                     .||||         |.||    |||||.||              |||||.
+c180685339-18  13126 TCCAAATTCTTGGTGCCAGTGGAAAGAAAGACGCCTTCTCAGGCTCCAGC  13175
+
+c63361349-633   9611 GCCAG----------------------------TGGCTCAGAC-------   9625
+                     |.|||                            .|||||||.|       
+c180685339-18  13176 GGCAGAAGTTCAGGGTTGATCCATCCTGAGTGTGGGCTCAGTCCAGGGGT  13225
+
+c63361349-633   9626 -GTGGCCCT----GGAACTG-GGCAGTGCGTATGCAGCCCCACTGC-ATT   9668
+                      .|.|.|||    ||.|||| ||  ||.|.|||      .||.||| |||
+c180685339-18  13226 ATTTGTCCTGAGAGGTACTGTGG--GTACCTAT------ACATTGCTATT  13267
+
+c63361349-633   9669 GGC---CCTGGG-------------------TGGCCAGA----ACACCTG   9692
+                     ..|   ||||||                   |||.||||    .||.|||
+c180685339-18  13268 TCCATACCTGGGGTCTTCTGAATGGATAAGATGGGCAGAGAGGCCAACTG  13317
+
+c63361349-633   9693 ----------------TCCTT----------------------------G   9698
+                                     |||.|                            |
+c180685339-18  13318 GCTTCCAGCAAGATGATCCATTAACCAGGACACAATGAGCAGGGATCAGG  13367
+
+c63361349-633   9699 CCTCTGTGGCCC-CTGGTGTCCT-------------CATGCTC-----AC   9729
+                     |||||| ||||| ||  ||||||             |||||||     ||
+c180685339-18  13368 CCTCTG-GGCCCTCT--TGTCCTGCCACTGTGGGCACATGCTCTCCATAC  13414
+
+c63361349-633   9730 ACACTGGG----------------AGGTGGCCTCC---AAGTCCTT----   9756
+                     .||.||||                ||| |.|||||   |..|||.|    
+c180685339-18  13415 TCAGTGGGTTTGCTATGGTCCTGCAGG-GACCTCCGGGATATCCATAGCA  13463
+
+c63361349-633   9757 -------GGGG---------------TTAACGGCAGAAG-----------   9773
+                            ||||               |.|||.|.|||||           
+c180685339-18  13464 CACTACAGGGGCCAGTTGTCAGCTCCTAAACTGAAGAAGACAGGCACAGC  13513
+
+c63361349-633   9774 --CT----------------------GGGTG-------AGG---------   9783
+                       ||                      .||||       |||         
+c180685339-18  13514 CCCTCCCCTTAGTACATGAGATGCTCAGGTGGGAACCAAGGGAAGTCAAA  13563
+
+c63361349-633   9784 ----AATTCCCATGGTGGC--------CCGGGGTG------------CTG   9809
+                         |||||||||||||.|        |.|.||||            |||
+c180685339-18  13564 GGGAAATTCCCATGGTGCCTCAATAAGCAGAGGTGACCCAGGCCCCTCTG  13613
+
+c63361349-633   9810 CTTGGAGGGGCGGGGACAT--------AGGGATGCCGTGTGT-CCCAGGA   9850
+                     ..||||||..|    |.||        |.|||.||.|||.|| |.|||| 
+c180685339-18  13614 AATGGAGGTAC----AAATGCAAATTCATGGAGGCAGTGGGTGCTCAGG-  13658
+
+c63361349-633   9851 GGTGACGCTGGGAGAC-------TAGCCCCATCCATGCGCCACTCATGGA   9893
+                              ||.||.|       |.|.|||| ||.|||||| ||||    
+c180685339-18  13659 ---------GGAAGCCAGTGGTTTGGTCCCA-CCCTGCGCC-CTCA----  13693
+
+c63361349-633   9894 TAAGGGTAATCACCAGCAGCAGTGATTATG---TGTGTCAGGCACTC---   9937
+                                  ||..|||..|||.||.|   |||..||...||||   
+c180685339-18  13694 -------------CAATAGCGATGAGTAAGAGCTGTAACACTAACTCTGC  13730
+
+c63361349-633   9938 -----GTAGG-TCCCTTC--CC----GTTCTCTGAACCACGTGCTACGCC   9975
+                          ||.|| |||.|||  ||    .|||||.|||||||.||  .|.||
+c180685339-18  13731 TCACTGTGGGCTCCATTCATCCTCTTCTTCTCCGAACCACATG--TCACC  13778
+
+c63361349-633   9976 CAG-CTCAGGGATGATAAACTGAGGTGCACGAGTAGGTGAGAAGAC-GAA  10023
+                     ..| ||||.||.|||.|||||||.||||||    ||||||| .||| |..
+c180685339-18  13779 TTGACTCAAGGGTGAGAAACTGAAGTGCAC----AGGTGAG-TGACGGCC  13823
+
+c63361349-633  10024 CAGTGTACCCGGGCAAGGCCGC---CAGCCCTTTTGTGCTCCTGTGACGT  10070
+                     ||||..||..||.|.|  ||.|   |||.||                   
+c180685339-18  13824 CAGTCCACATGGACCA--CCACACACAGTCC-------------------  13852
+
+c63361349-633  10071 GAGAATGC-CTCTGTGTGTGGACGTGGACGTGGACGTGGACGTGGGTGTG  10119
+                          ||| |||||||||| ||| ||   |||||                
+c180685339-18  13853 -----TGCACTCTGTGTGT-GAC-TG---GTGGA----------------  13876
+
+c63361349-633  10120 GATGT-----GGGCGTGGACGTGGACGTGGGTGTGGATGTGGGCGTGGGA  10164
+                     |.|||     .|||                               |||||
+c180685339-18  13877 GCTGTCAGTCAGGC-------------------------------TGGGA  13895
+
+c63361349-633  10165 CATGGATGTGGGCGT--------GGACGTGGATGTGGGCGTGGACGTGGA  10206
+                               |||.|        |.|     ||||               
+c180685339-18  13896 ----------GGCTTTCTCCACAGTA-----ATGT---------------  13915
+
+c63361349-633  10207 TGTGGGCGTGGAT-GTGGGTGTGG-GTGTGGACGTGGGCATGGGTGTGGC  10254
+                                 | |||||||||| ||.||||  .|||||          
+c180685339-18  13916 ------------TCGTGGGTGTGGTGTATGGA--GGGGCA----------  13941
+
+c63361349-633  10255 AGTGGGCGTGGGTGTGGACGTGGGCATGGATGTGGGGGTCTCACACCCTT  10304
+                                     |||.|   |||.|.|               |.||
+c180685339-18  13942 ----------------GACCT---CATTGCT---------------CTTT  13957
+
+c63361349-633  10305 CGCTCTCTTCCTGCCCAGTGCTGACGGGGACTTCGCGGTCACCCACCTGA  10354
+                     |.|||.||||||| ||||.||.|||||||||||.||.|||||||||||.|
+c180685339-18  13958 CTCTCGCTTCCTG-CCAGCGCGGACGGGGACTTTGCAGTCACCCACCTAA  14006
+
+c63361349-633  10355 CCAAGGCCCACCTGTTCCATGACGGGCGGGTGCAGTGGACTCCCCCGGCC  10404
+                     ||||.||||||||||||.||||.|||||.|||||||||||.|||||||||
+c180685339-18  14007 CCAAAGCCCACCTGTTCTATGATGGGCGTGTGCAGTGGACACCCCCGGCC  14056
+
+c63361349-633  10405 ATTTACAAGAGCTCCTGCAGCATCGACGTCACCTTCTTCCCCTTCGACCA  10454
+                     ||.||.||||||||||||||||||||||||||||||||||||||||||||
+c180685339-18  14057 ATCTATAAGAGCTCCTGCAGCATCGACGTCACCTTCTTCCCCTTCGACCA  14106
+
+c63361349-633  10455 GCAGAACTGCACCATGAAATTCGGCTCCTGGACCTACGACAAGGCCAAGA  10504
+                     |||||||||.||||||||.||.||.|||||||||||||||||||||||||
+c180685339-18  14107 GCAGAACTGTACCATGAAGTTTGGGTCCTGGACCTACGACAAGGCCAAGA  14156
+
+c63361349-633  10505 TCGACCTGGTGAACATGCACAGCCGCGTGGACCAGCTGGACTTCTGGGAG  10554
+                     |.|||.||||||.||||||||||||.||||||||.||||||||||||||.
+c180685339-18  14157 TTGACTTGGTGAGCATGCACAGCCGTGTGGACCAACTGGACTTCTGGGAA  14206
+
+c63361349-633  10555 AGTGGCGAGTGGGTCATCGTGGATGCCGTGGGCACCTACAACACCAGGAA  10604
+                     |||||.|||||||||||.||||||||||||||||||||||||||||||||
+c180685339-18  14207 AGTGGGGAGTGGGTCATTGTGGATGCCGTGGGCACCTACAACACCAGGAA  14256
+
+c63361349-633  10605 GTACGAGTGCTGTGCCGAGATCTACCCGGACATCACCTATGCCTTCGTCA  10654
+                     |||.||.|||||||||||||||||.||.|||||||||||.||||||.|||
+c180685339-18  14257 GTATGAATGCTGTGCCGAGATCTATCCTGACATCACCTACGCCTTCATCA  14306
+
+c63361349-633  10655 TCCGGCGGCTGCCGCTCTTCTACACCATCAACCTCATCATCCCCTGCCTG  10704
+                     ||||.||.|||||.||.|||||||||||||||||.||||||||.||||||
+c180685339-18  14307 TCCGCCGACTGCCACTGTTCTACACCATCAACCTTATCATCCCGTGCCTG  14356
+
+c63361349-633  10705 CTCATCTCCTGCCTCACCGTGCTGGTCTTCTACCTGCCCTCCGAGTGTGG  10754
+                     ||||||||||||||||||||||||||||||||.||||||||.|||||.||
+c180685339-18  14357 CTCATCTCCTGCCTCACCGTGCTGGTCTTCTATCTGCCCTCGGAGTGCGG  14406
+
+c63361349-633  10755 CGAGAAGATCACGCTGTGCATCTCCGTGCTGCTGTCGCTCACCGTCTTCC  10804
+                     |||||||.||||||||||||||||.||||||||.||.|||||||||||||
+c180685339-18  14407 CGAGAAGGTCACGCTGTGCATCTCGGTGCTGCTTTCTCTCACCGTCTTCC  14456
+
+c63361349-633  10805 TGCTGCTCATCACCGAGATCATCCCGTCCACCTCACTGGTCATCCCACTC  10854
+                     ||||||||||||||||||||||||||||||||||.|||||||||||.|||
+c180685339-18  14457 TGCTGCTCATCACCGAGATCATCCCGTCCACCTCGCTGGTCATCCCGCTC  14506
+
+c63361349-633  10855 ATCGGCGAGTACCTGCTGTTCACCATGATCTTCGTCACCCTGTCCATCGT  10904
+                     |||||||||||||||||.|||||||||||||||||||||||.|||||.||
+c180685339-18  14507 ATCGGCGAGTACCTGCTCTTCACCATGATCTTCGTCACCCTCTCCATTGT  14556
+
+c63361349-633  10905 CATCACGGTCTTCGTGCTCAACGTGCACCACCGCTCGCCACGCACGCACA  10954
+                     |||||||||||||||||||||.||.|||||||||||.||||||||.||||
+c180685339-18  14557 CATCACGGTCTTCGTGCTCAATGTACACCACCGCTCACCACGCACACACA  14606
+
+c63361349-633  10955 CCATGCCCACCTGGGTACGCAGGGTCTTCCTGGACATCGTGCCACGCCTG  11004
+                     ||||||||.|||||||.|||||.||||||||||||||.|||||.||.||.
+c180685339-18  14607 CCATGCCCGCCTGGGTGCGCAGAGTCTTCCTGGACATTGTGCCCCGTCTC  14656
+
+c63361349-633  11005 CTCCTCATGAAGCGGCCGTCCGTGGTCAAGGACAATTGCCGGCGGCTCAT  11054
+                     |||.||||||||||.||.||.||||||||.|||||.||||||.|.||.||
+c180685339-18  14657 CTCTTCATGAAGCGCCCATCTGTGGTCAAAGACAACTGCCGGAGACTTAT  14706
+
+c63361349-633  11055 CGAGTCCATGCATAAGATGGCCAGTGCCCCGCGCTTCTGGCCCGAGCCAG  11104
+                     |||.||||||||.||||||||||..|||||.||.||||||||.|||||.|
+c180685339-18  14707 CGAATCCATGCACAAGATGGCCAACGCCCCTCGTTTCTGGCCAGAGCCTG  14756
+
+c63361349-633  11105 AAGGGGAGCCC-----CCTGCCACG-----AGCGGCACCCAGAGCCTG-C  11143
+                     |..|.||||||     |.||    |     |.|.|||.|||..||||| |
+c180685339-18  14757 AGAGTGAGCCCGGCATCTTG----GGTGACATCTGCAACCAAGGCCTGTC  14802
+
+c63361349-633  11144 ACCCGCCCTCACCGTCCTTCTGTGTCCCCCTGGATGTGC----CGGCTGA  11189
+                     |||.|||    ||..|.|||||...||.|.||||    |    |.|..||
+c180685339-18  14803 ACCTGCC----CCAACTTTCTGCAACCGCATGGA----CACAGCAGTCGA  14844
+
+c63361349-633  11190 GCCTGGGCCTTCCTGCAAGTCACCCTCCGACCAGCTCCCT----------  11229
+                     |.|...||||.|.||||.||||||||||.||.||.|||||          
+c180685339-18  14845 GACCCAGCCTACATGCAGGTCACCCTCCCACAAGGTCCCTGACTTGAAGA  14894
+
+c63361349-633  11230 CCTCAGCAGCCCCTGGAAGCTGAGAAAGCCAGCCCCCACCCCTCGCCTGG  11279
+                     |.|||          ||.|.||||||.|||||.|||...||.||.|||||
+c180685339-18  14895 CATCA----------GAGGTTGAGAAGGCCAGTCCCTGTCCATCACCTGG  14934
+
+c63361349-633  11280 ACCCTGCCGCCCGCCCCACGGCACCCAGGCACCAGGGCTGGCCAAAGCCA  11329
+                     ..|.||.|.|||.|||.|..|||....|||.||||.|||...||||||||
+c180685339-18  14935 CTCTTGTCACCCACCCAATAGCAGTGGGGCCCCAGTGCTCATCAAAGCCA  14984
+
+c63361349-633  11330 GGTCCCTCAGCGTCCAGCACATGTCCAG--CCCTGGCGAAGCGGTGGAAG  11377
+                     |||||||.|||||||||||..||.||||  |||.|  |||||.|..||.|
+c180685339-18  14985 GGTCCCTGAGCGTCCAGCATGTGCCCAGCTCCCAG--GAAGCAGCCGAGG  15032
+
+c63361349-633  11378 GCGGCGTCCGGTGCCGGTCTCGGAGCATCCAGTACTGTGTTCCCCGAGAC  11427
+                     ||.||.||||.||||||||||||||.|||||||||||||||.|||.|||.
+c180685339-18  15033 GCAGCATCCGCTGCCGGTCTCGGAGTATCCAGTACTGTGTTTCCCAAGAT  15082
+
+c63361349-633  11428 GATGCCGC--CCCCGAGGCAGATGGCCAGGCTGCCGGCGCCCTGGCCTCT  11475
+                     |..||.||  |||.||  |.||..||.||.|..|.|||.|||..|||||.
+c180685339-18  15083 GGAGCTGCTTCCCTGA--CTGAGAGCAAGCCCACTGGCTCCCCAGCCTCC  15130
+
+c63361349-633  11476 CGCAACACCCACTCGGCTGAGCTCCCACCCCCAGACCAGCCCTCTCCGTG  11525
+                     |..||.||||...|..|..||||.|||....||||||||.|||||||.||
+c180685339-18  15131 CTGAAGACCCGTCCATCCCAGCTTCCAGTGTCAGACCAGACCTCTCCATG  15180
+
+c63361349-633  11526 CAAATGCACATGCAAGAAGGAGCCCTCTTCGGTGTCCCCGAGCGCCACGG  11575
+                     |||||||||||||   |||||.||.|||.|.||||||||.|.|.|...|.
+c180685339-18  15181 CAAATGCACATGC---AAGGAACCATCTCCTGTGTCCCCCATCACTGTGC  15227
+
+c63361349-633  11576 TCAAGACCCGCAGCACCAAAGCGCCGCCCCCGCACCTGCCCCTGTCGCCG  11625
+                     |||||.|..|..||||||||||.||.||||..||||||||||||||.||.
+c180685339-18  15228 TCAAGGCTGGAGGCACCAAAGCACCTCCCCAACACCTGCCCCTGTCACCA  15277
+
+c63361349-633  11626 GCCCTGACCCGGGCGGTGGAGGGCGTCCAGTACATTGCAGACCACCTGAA  11675
+                     ||||||||.|||||.||.||.||||||||||||||||||||||||||.||
+c180685339-18  15278 GCCCTGACACGGGCAGTAGAAGGCGTCCAGTACATTGCAGACCACCTCAA  15327
+
+c63361349-633  11676 GGCCGAAGACACAGACTTCTCGGTAAGTCCCGCCCATGGCTGTG-TTGGG  11724
+                     |||.||||||||||||||||||||||||           ||||| .||||
+c180685339-18  15328 GGCAGAAGACACAGACTTCTCGGTAAGT-----------CTGTGCATGGG  15366
+
+c63361349-633  11725 ---CGCCTCTGACCCAGACGGAACCGGCGGACGCCCTTTCTTCCTGGTGT  11771
+                        |.|| |.||||||||..|.|||.|        .|.||||    ||||
+c180685339-18  15367 AATCACC-CCGACCCAGATAGGACCAG--------ATGTCTT----GTGT  15403
+
+c63361349-633  11772 ---------GTAATCCAGGAGCCGGGCCCAGGCCTCAG----GCTGCTTC  11808
+                              .|.||||||.|     .||.|||||.|||    ||||| .|
+c180685339-18  15404 TTCCCACACATGATCCAGAA-----ACCAAGGCCCCAGAGAAGCTGC-AC  15447
+
+c63361349-633  11809 GCTTTG-GGGTGCAGGGCGTGGCCCCTG-CTGCAGCA-GCCTC---TTCC  11852
+                     .|.||| ||||.||..|.||.|.|.||| |||  ||| |||||   .|||
+c180685339-18  15448 ACATTGAGGGTACATAGTGTAGTCTCTGCCTG--GCATGCCTCACAGTCC  15495
+
+c63361349-633  11853 CAAGCCTGCTATGTGGCCGCAGG---TCCCA-GGCTGAGCGGGGCAGGGG  11898
+                     |.||   ||.|      |||.||   |..|| |||..||....||.||.|
+c180685339-18  15496 CTAG---GCCA------CGCTGGGGTTAACATGGCACAGTATAGCTGGTG  15536
+
+c63361349-633  11899 GCC------CCGAGTGGCTGGCA--------CAGGGTGGATCCC------  11928
+                     |.|      |.|||..||| |||        ||||.|   ||||      
+c180685339-18  15537 GACAGTAAACTGAGATGCT-GCACCTTCATCCAGGTT---TCCCAAACAG  15582
+
+c63361349-633  11929 --GGT------GCCGTCTCTGGCTTTGGGA----CACAGTGGGCCTCGGC  11966
+                       |||      .|.||.|||.||..|..||    .|||     |||    
+c180685339-18  15583 CAGGTAGAGAAACTGTTTCTAGCCCTATGATTCTAACA-----CCT----  15623
+
+c63361349-633  11967 GGACGGCACGGTGAGGGGCCACAGGCAGCGTCCTTCCA---GCACAG---  12010
+                          |||.|||                |.|||||..|   |..|||   
+c180685339-18  15624 -----GCAAGGT----------------CTTCCTTTGAAGTGTTCAGGCT  15652
+
+c63361349-633  12011 ----AACGGGGGCGCTCTGGGAACTCCTGCC-------CA-GCAA-----  12043
+                         ||.||       ||||..||.|.||||       || ||||     
+c180685339-18  15653 GTTTAATGG-------CTGGCTACCCATGCCTGGGTGACAGGCAAGGTCC  15695
+
+c63361349-633  12044 -----TGGCCAAGTCCCCAGAACGCAACGAGGC-ACTGCCAAGGCCCTTT  12087
+                          |||||  .|||.||.||.|.|..|.||| .||||         ||
+c180685339-18  15696 CATGTTGGCC--TTCCTCAAAATGTAGTGGGGCTGCTGC---------TT  15734
+
+c63361349-633  12088 CTCCAGAGTGCGCCTGTGCCTG---CCCC----GCGGGCCTCCCCGGGGC  12130
+                     ||.|    |||..||| |||||   ||||    .|.|...|||||.||| 
+c180685339-18  15735 CTGC----TGCTGCTG-GCCTGTAACCCCAAGAACAGCTTTCCCCTGGG-  15778
+
+c63361349-633  12131 CCCTCCGTATCTGGGGCCTGGA-TGTAGGGGGCT---CAGAGAAGATGGG  12176
+                      |.|||  |.||.|    ||.| |||  ||..||   ||...||||..||
+c180685339-18  15779 -CTTCC--ACCTAG----TGAAGTGT--GGTCCTTTGCACCCAAGAAAGG  15819
+
+c63361349-633  12177 ATGGGATGGGCTGGT----GGCAGGAGGACGGAGCTGGGACAGGGACACA  12222
+                     .||.||      |||    ||.|.|||...|||||||   |||     .|
+c180685339-18  15820 TTGAGA------GGTTATAGGAAAGAGAGTGGAGCTG---CAG-----AA  15855
+
+c63361349-633  12223 GCT-------------CCAAGACCATCAGCCCCACACGGC--CA-AGCTG  12256
+                     |||             ||    |||.|  ||||||.||.|  || ..||.
+c180685339-18  15856 GCTGTGCTGCTCGCCCCC----CCACC--CCCCACCCGTCATCATTCCTT  15899
+
+c63361349-633  12257 GGGACAGGTGGGAGAGCCAGGGGCTGGGGGCAGAACGCTGGTCCCACGGC  12306
+                     ..||..|||.|.|        ||.||.||.||.||.||| |.|||||.||
+c180685339-18  15900 TTGAAGGGTTGTA--------GGGTGCGGACATAATGCT-GCCCCACTGC  15940
+
+c63361349-633  12307 TAAGGCCCCCCGGGGCCCGGGGCCAG--CCCA----CCTACC-----CTC  12345
+                      |||||.|.|.||..||.||.|.|||  |.||    |.||.|     || 
+c180685339-18  15941 -AAGGCTCTCAGGAACCTGGTGACAGAACGCAGGTGCTTAGCAAATGCT-  15988
+
+c63361349-633  12346 ACC----------CTCCA-GCGCCAGGCACTGGCCGCACAGAGGCCCCAG  12384
+                     |||          ||.|| ||..||.||..||.|...||||||||     
+c180685339-18  15989 ACCTGCATTTGTTCTTCATGCTTCAAGCTTTGACTCTACAGAGGC-----  16033
+
+c63361349-633  12385 GAGCCACAGTTTCTGCTAAGTGGCAGCCATGTCCGTGTTACCCGTGGCTG  12434
+                                 |||..||     || .||||||.||||.|     .|||
+c180685339-18  16034 ------------CTGAAAA-----AG-AATGTCCATGTTCC-----TCTG  16060
+
+c63361349-633  12435 TGCAGTCTCCTACCCATT--CCA---TGCAG------------GAGAGGC  12467
+                     |   .||||||.|.|.||  |||   .||||            |..||||
+c180685339-18  16061 T---TTCTCCTGCACTTTTCCCAGATCGCAGCTCTGGTGAATAGCTAGGC  16107
+
+c63361349-633  12468 TGGG--GCTGAGCCAGCTTTGCCTGACCCCAGCACCAGGTAGCTTCCCTG  12515
+                     ||||  ||.|....||||.||.||||||            |.|||  ||.
+c180685339-18  16108 TGGGCAGCAGTTGTAGCTCTGTCTGACC------------ATCTT--CTC  16143
+
+c63361349-633  12516 TTTCCTTCTGCAGACATTT-ACTGCCTGTCACATGGGGGG-----AGGCA  12559
+                     ||||         |||||| .|||.||||||||....|||     ||| |
+c180685339-18  16144 TTTC---------ACATTTGTCTGGCTGTCACAGTAAGGGTCTCCAGG-A  16183
+
+c63361349-633  12560 CAGGGGCCAGGGTCCA-------CGGA---CAG--------------GAT  12585
+                     |.||||.|.|||..||       |.||   |||              |||
+c180685339-18  16184 CTGGGGTCTGGGATCAGATGACGCTGAGTGCAGGACTCCTGATGCTAGAT  16233
+
+c63361349-633  12586 AA---------------TGGGGCGGGACGGGTG---GGGCACACAGGT--  12615
+                     ||               ||||.|.|  |..|||   |||||||   ||  
+c180685339-18  16234 AAGCTGTTTGCCGAATCTGGGTCTG--CCTGTGACAGGGCACA---GTTT  16278
+
+c63361349-633  12616 -GGCCG-------GGGGTCTC-------GGCCTCGGCTG-TGCAGCCCAT  12649
+                      ||..|       ||.|||||       ||  ||.|.|| .|.|| .|||
+c180685339-18  16279 GGGGTGTAGAATAGGAGTCTCAGAGAGAGG--TCAGATGAAGAAG-GCAT  16325
+
+c63361349-633  12650 -----GACGTCC-ACAGCGG----CAATTCGGCATCTGTCCTGTCCATCC  12689
+                          ||.|||| ||...||    |..|||    |||.|.||||   .||
+c180685339-18  16326 TAAGAGAAGTCCTACCCTGGCCTACCTTTC----TCTCTGCTGT---GCC  16368
+
+c63361349-633  12690 ACCTG------CTGTCGCCGGCACCT---CCTGGCTCTTGTCCCGGTGCC  12730
+                     |.|||      ||||    ||||.||   |.|.|..|||||        |
+c180685339-18  16369 AACTGAAATGTCTGT----GGCATCTTTACATTGACCTTGT--------C  16406
+
+c63361349-633  12731 AGGGCCTGG----TGCCCTCAGTGGGCCACCTCCGT-CTGAAGGGGCCAC  12775
+                     .||||||||    ||   |||.||       |||.| ||||      |||
+c180685339-18  16407 TGGGCCTGGCATTTG---TCATTG-------TCCCTCCTGA------CAC  16440
+
+c63361349-633  12776 CTCTGC----CAGG-----------------ACCCCAGAGCGCCATCCTC  12804
+                     ||..||    |.||                 ||         |||.||| 
+c180685339-18  16441 CTTGGCTTTGCTGGTTTCTGTTCATCTTCCTAC---------CCAGCCT-  16480
+
+c63361349-633  12805 GATGGTT----TATTCGGACGCAT--CTGGTGCCTGCCCCCACTAGCTG-  12847
+                     || ||||    |.||  ||  |||  |||  ||.||.|.||...||||| 
+c180685339-18  16481 GA-GGTTTGCCTGTT--GA--CATTACTG--GCTTGTCTCCTAGAGCTGC  16523
+
+c63361349-633  12848 -AGCGAGCCC--CAAAGCGAGG-GGCCCGTGCTCC---ATACCCATGAAA  12890
+                      |   |||||  |||||..||| |||...||||||   ||.||||     
+c180685339-18  16524 TA---AGCCCTGCAAAGAAAGGAGGCTGATGCTCCCATATTCCCA-----  16565
+
+c63361349-633  12891 AGTGAGGGAGTTGCTC---GCCCCACACAGCCACCCCACTGAATCCCAAG  12937
+                           |||||.|.||   ||.|| ||.||.||.||||.|||.||||..|
+c180685339-18  16566 ------GGAGTGGGTCTTGGCTCC-CAGAGTCATCCCATTGAGTCCCTGG  16608
+
+c63361349-633  12938 AAGCTGCAAAACCTCCTGCAGGTTCCAGAACATTCTGGGGTCACGAGAG-  12986
+                     ||..||..||.|                  ||||||||||.|.|.|||| 
+c180685339-18  16609 AATGTGTGAAGC------------------CATTCTGGGGACTCCAGAGA  16640
+
+c63361349-633  12987 CA-GCCTG--GAGAA-----GCATC-GGGATCCTGCTTTGCTGCCAGCTC  13027
+                     || |.|||  |||||     |..|| ||||  |||..|||||| ||||||
+c180685339-18  16641 CATGTCTGCAGAGAAATTTTGGTTCTGGGA--CTGTCTTGCTG-CAGCTC  16687
+
+c63361349-633  13028 T----TGAAGCGAGAGGCAGCTGTGCCCGGGCTGT--------GCCACCG  13065
+                     |    ||.||.|||    ||||    ||.|||..|        |||||.|
+c180685339-18  16688 TGGGGTGGAGGGAG----AGCT----CCAGGCACTGGAGTGAGGCCACTG  16729
+
+c63361349-633  13066 TGGGGTCA-GATGCAT-TTAGGTGTTTGA-TCAAAGCGGTCCTGAAGCTG  13112
+                     .|||   | ||||.|| |.|...||||.| |.|||.| .|.|||||.|  
+c180685339-18  16730 AGGG---AGGATGGATATGACAAGTTTAACTGAAATC-CTTCTGAAAC--  16773
+
+c63361349-633  13113 GCAGTGGGTCTG-AGC----TC----GGC--GGTCGCGCGCCCTGGGCCC  13151
+                      |||||..|||| |||    ||    |||  ||.|..|.|.|||     |
+c180685339-18  16774 -CAGTGCATCTGCAGCATAGTCCCATGGCTGGGGCTTGTGACCT-----C  16817
+
+c63361349-633  13152 CTCCAGCAGCCTTCT-CGGGCCGATTGCTGCCGCTGCCTGACCTGGTTCT  13200
+                     .||||.|     ||| |.||||   ||||||.||||||||||||||||||
+c180685339-18  16818 TTCCATC-----TCTGCTGGCC---TGCTGCAGCTGCCTGACCTGGTTCT  16859
+
+c63361349-633  13201 GGGCTTGTGGGGAGCAGA----GCTGACTTCACAGCAGCCACCTCGGGGA  13246
+                     ||.|.|   ||||    |    .|||||||.|.|| ||.||      |||
+c180685339-18  16860 GGCCCT---GGGA----ATCTCTCTGACTTAATAG-AGACA------GGA  16895
+
+c63361349-633  13247 CAAAGGGAAGGCTTTGGTCTGCGGCT---GCGTTTCATCTTC--AG----  13287
+                     ||   |.|.||||||||||...|.||   |.|||||||||||  ||    
+c180685339-18  16896 CA---GCAGGGCTTTGGTCCATGACTGTGGTGTTTCATCTTCGAAGTCTT  16942
+
+c63361349-633  13288 GGTGGATGGAACGCGGCACACAGAACCCAGGGAACTAAAGGCACATAGGA  13337
+                     |||                      ||||||    ||.||       |||
+c180685339-18  16943 GGT----------------------CCCAGG----TACAG-------GGA  16959
+
+c63361349-633  13338 AAGGGCGAGAGG--------GCGGCCGCGTCCCCGCCCCCAGAGCCGAGG  13379
+                     ||||  .|||||        ||.||||..|    ||.|..||    |||.
+c180685339-18  16960 AAGG--AAGAGGAACACCAAGCAGCCGTTT----GCTCTGAG----GAGC  16999
+
+c63361349-633  13380 CCT----GGGCAGGACTTTATTTATAAGTGACCCCGTTTGCCTTCAGGCT  13425
+                     |||    ||||   ..|||||.||..||.||       |...||||    
+c180685339-18  17000 CCTTGAGGGGC---TTTTTATCTAGCAGAGA-------TCTATTCA----  17035
+
+c63361349-633  13426 TCCCGTAG----ATAAATG----CGGCCGTTTTGGTTCAGTTTAACACCA  13467
+                     |||.|.||    .|||.||    .|||...||..||| .|.|||| ||||
+c180685339-18  17036 TCCTGAAGTTTTCTAAGTGAGCATGGCTACTTACGTT-GGCTTAA-ACCA  17083
+
+c63361349-633  13468 TCAGGAGACCCGGGATTGCTATAAACAATCAGAGCAGGAGGCGGCACTGT  13517
+                     .|||||.|||...||||.||.|.||.|.||||.|.||.||          
+c180685339-18  17084 ACAGGACACCTATGATTTCTTTGAAAACTCAGGGTAGAAG----------  17123
+
+c63361349-633  13518 CCC---CACAGTGTG----CCCAGGC---------CCCCGCGG-------  13544
+                     |||   || |.||.|    |||||.|         |.|.||.|       
+c180685339-18  17124 CCCTTGCA-ACTGGGACAACCCAGACCAAGTGTTTCTCTGCTGGGTTGAG  17172
+
+c63361349-633  13545 ----------CACATC--CCTCCCATCC--CTCAGC----ATCCACAGGC  13576
+                               ||||||  .||||| |.|  |||| |    ||.|||| |.
+c180685339-18  17173 TTCTATTTACCACATCTTACTCCC-TGCTGCTCA-CATATATGCACA-GA  17219
+
+c63361349-633  13577 CTGGGACCCAGG-ACACCCTCACGGCCGGGCCCAGAGGCAGCTC--ATC-  13622
+                     ||||  |.|||| ||.||||||.|.||.|.|||.|..|||||||  ||| 
+c180685339-18  17220 CTGG--CTCAGGAACCCCCTCATGCCCTGTCCCCGGTGCAGCTCTGATCA  17267
+
+c63361349-633  13623 AGCTTGGGGGTTGTCTCAGGTCCT--------------------ACACGG  13652
+                     ||||| |||||..|..||||.|||                    |||.|.
+c180685339-18  17268 AGCTT-GGGGTAATTACAGGCCCTTCTAGACAAATGATGTGCTCACAGGA  17316
+
+c63361349-633  13653 CAG------------AGCCAGAGACGCGGGACGGGGGAGCC---------  13681
+                     |||            |||.|.|| .|.|.|||     ||||         
+c180685339-18  17317 CAGTGATGAGGAAAAAGCAACAG-TGTGTGAC-----AGCCACCCTGCCT  17360
+
+c63361349-633  13682 --GGGGCGAGGGCAGTGGCCAGCGGCATG-----AGTGCCTTGGGCTGC-  13723
+                       .|..|.|||||||     |.|.|||||     |.||||||      | 
+c180685339-18  17361 GAAGTACAAGGGCAG-----ATCTGCATGCAGAAACTGCCTT------CA  17399
+
+c63361349-633  13724 ACACAGCGGCTGTCTCGAGAGTGGCTTCCCGACTC-CAGGCCT-----GA  13767
+                     |||||                    ||.|..|.|| |||||||     ||
+c180685339-18  17400 ACACA--------------------TTGCTAATTCTCAGGCCTAGTCAGA  17429
+
+c63361349-633  13768 CCAGGCCACTGCCTCTGCCCTCCCTAG-----GCCTCTG----CTCCTGG  13808
+                     ||.|||  .|...||| |||||||.||     ||.||||    ||.||.|
+c180685339-18  17430 CCTGGC--ATTAATCT-CCCTCCCGAGTCTTTGCTTCTGAGAACTGCTTG  17476
+
+c63361349-633  13809 GGG----------------TCA--CCCGGG--GGAG-----GTCCGCCCT  13833
+                     .||                |||  |||.||  |.||     ||||.|.||
+c180685339-18  17477 AGGAAGTAGCTACTTTGCATCAGGCCCTGGAAGAAGCTAGAGTCCACACT  17526
+
+c63361349-633  13834 GCATCAGCCCCAGGAGTGTGGGGTTAGA---AGCC-----------GGAC  13869
+                     |  |..|..||||.||||||.|  ||||   ||||           ||||
+c180685339-18  17527 G--TGGGATCCAGAAGTGTGTG--TAGAAGGAGCCATTAGTCATTTGGAC  17572
+
+c63361349-633  13870 ---------------------------------------------CTGG-  13873
+                                                                  |||| 
+c180685339-18  17573 GTCATCGTCACCATGTGCTATATAGCACGGTCCAATGAGGATTGACTGGG  17622
+
+c63361349-633  13874 -AGCC---------GGA---------------------------------  13880
+                      ||.|         |||                                 
+c180685339-18  17623 TAGTCACAAACGGTGGATATATATATATCATTCTTTTGTGTGCATCTTGC  17672
+
+c63361349-633  13881 --------ACCCGCTGTC------------CCCGTTC-----AGAT---A  13902
+                             ||||.|||||            ||| |||     |.||   .
+c180685339-18  17673 CACCATTCACCCTCTGTCTCTGACCATCCTCCC-TTCTTGGAACATCTCC  17721
+
+c63361349-633  13903 TGTAACCGCAGCCGCCCCTGAAG-GC---CTCAG----------------  13932
+                     ||..|||.|.|||.||||...|| ||   |||||                
+c180685339-18  17722 TGGCACCACTGCCTCCCCACCAGTGCCTGCTCAGGCTGGCTATGCTGCCC  17771
+
+c63361349-633  13933 -TGTGAAAACG---------------AGA--CAGGCCAGGGG--------  13956
+                      ||| ||.|.|               |||  |||.|||||||        
+c180685339-18  17772 ATGT-AAGAAGTAGGTGTGCATGGTCAGAAGCAGACCAGGGGGCAGTTGG  17820
+
+c63361349-633  13957 ------AGG-CTCG----------------AGTGA---------------  13968
+                           ||| ||.|                |||||               
+c180685339-18  17821 GCACTTAGGCCTTGCTTTTGGGATGGCCTTAGTGATCAATCCATTACCCA  17870
+
+c63361349-633  13969 -----------------------GAGACT---GCAGATGGC-GGCAGCTC  13991
+                                            | ||||   .||..|||| |.||.||.
+c180685339-18  17871 GCATGTCCTGGCTCTTACCCTCTG-GACTAGGACACGTGGCTGACATCTT  17919
+
+c63361349-633  13992 TGCGGGCTCC--------------------------ATGTGT---GCTGC  14012
+                     |..|.|.|||                          ||||||   |.||.
+c180685339-18  17920 TCTGAGATCCACTTTTTCTTAATTTGATTTTATGCTATGTGTATGGATGT  17969
+
+c63361349-633  14013 TTT-------CGTCCGCCCTCTG-----------------TGCGCCCACC  14038
+                     |||       .||..|   ||||                 |||..|||.|
+c180685339-18  17970 TTTGATTACATGTATG---TCTGTGTGTCACATGCATGCCTGCTGCCAGC  18016
+
+c63361349-633  14039 GG--GCCACA---TTTG-CCCATC---TGCAAAACGGGGAG----GG--G  14073
+                     .|  ||||.|   |.|| |..|||   ||.|||   |||||    ||  |
+c180685339-18  18017 AGAAGCCAGAGAGTGTGTCAAATCCCTTGAAAA---GGGAGTTATGGATG  18063
+
+c63361349-633  14074 GATGGGCCCTCCCA-----GCGCTGG----TGAGC-----------TG-A  14102
+                     |.||.|.|| .|||     |.|.|||    |||.|           || |
+c180685339-18  18064 GTTGTGTCC-ACCATGTAGGAGTTGGGAATTGAACCCAGGATCTCTTGAA  18112
+
+c63361349-633  14103 GAGCAGACC---GCTC---ACGGGGTGC-CTGAGCC-CCCCTCC--CCCG  14142
+                     |||||| ||   ||||   ||      | ||||||| .|.||||  |||.
+c180685339-18  18113 GAGCAG-CCAGTGCTCTTAAC------CACTGAGCCATCTCTCCAGCCCC  18155
+
+c63361349-633  14143 TG---CCCCCTTCCCGGA-----GCACAG----------------GCCGC  14168
+                     ||   .||.|||  |.||     ||||.|                |||.|
+c180685339-18  18156 TGGGATCCACTT--CTGACATCTGCACTGTGAGAAGATAGACTCAGCCTC  18203
+
+c63361349-633  14169 ----CTGCT----------GA-----------------------GAAG--  14179
+                         |||||          ||                       ||||  
+c180685339-18  18204 TGTGCTGCTACCAGCTTTAGAAAACATAAGACATACTTCATCCCGAAGTC  18253
+
+c63361349-633  14180 -TGGG----------GGCACACAG--GGCATAGTG-----CA----GAGC  14207
+                      ||||          ||| ||.||  |||..|.||     ||    ||||
+c180685339-18  18254 ATGGGCCCTTTGTCTGGC-CAAAGTAGGCCCAATGAGCTACATTTTGAGC  18302
+
+c63361349-633  14208 TT-----GTCTCCACAAGGGGGTCTGCCCAGCCAGAAT---------TCC  14243
+                     ||     |.||.| ||||..|||..|.|||||.||..|         |||
+c180685339-18  18303 TTAGGCAGCCTGC-CAAGCAGGTAAGACCAGCTAGTGTACAACATGATCC  18351
+
+c63361349-633  14244 CAGGGTTGCAAGGTCCTCCTG------------CCCCATACCATGGTGA-  14280
+                     |       ||||  |||.|||            |    |||||    || 
+c180685339-18  18352 C-------CAAG--CCTTCTGTGGCGGTGTGGAC----TACCA----GAA  18384
+
+c63361349-633  14281 -------TGATG----------------CCCCCC----GCAG----AG--  14297
+                            .||||                ||||.|    ||||    ||  
+c180685339-18  18385 AGCACTCAGATGTGTCTGAATTCAAAGACCCCACACATGCAGCCTTAGAT  18434
+
+c63361349-633  14298 -------CACTGGCTGTCCCGTGCACCCCA----ATTCCTCCCCTCGGT-  14335
+                            |..|.|.||.||.||.||||.||    .|.||| |||||.|| 
+c180685339-18  18435 ATGGGTTCTATAGATGCCCAGTCCACCTCATATGTTACCT-CCCTCTGTT  18483
+
+c63361349-633  14336 -------GCAGCTGTGTGCCGC-GTGCACCAGCAG---CAATGGC--TGC  14372
+                            |||||    .|||.| .||..||.||||   |..||||  || 
+c180685339-18  18484 CTACCTAGCAGC----AGCCTCTCTGACCCTGCAGATTCTCTGGCCATG-  18528
+
+c63361349-633  14373 CTCGG-------------GTGGA------------AGGTGGGAGGTGGAG  14397
+                     |||.|             |||.|            .|.|||||..|..||
+c180685339-18  18529 CTCTGTCTCACCACATCAGTGTACAGATGTGTATCTGATGGGAAATACAG  18578
+
+c63361349-633  14398 AAGCTGTTGCCGGC----GGCGCCGGGGTCCTG--------AGGGCTGTC  14435
+                     ||.||||    |||    .|.|||.||.|||.|        |.||.||.|
+c180685339-18  18579 AAACTGT----GGCTCATAGTGCCAGGTTCCAGAAGATTCTATGGTTGCC  18624
+
+c63361349-633  14436 CCCG----CTGGCGGCGGCCGGGCCGTGCTGGAGTGACGGC---GTCTGT  14478
+                     |..|    |||             .|.|||.||.||||  |   ||||||
+c180685339-18  18625 CATGGTATCTG-------------AGAGCTAGAATGAC--CCATGTCTGT  18659
+
+c63361349-633  14479 GCTTGCAGGTGAAGGAGGACTGGAAGTACGTGGCCATGGTCATCGACCGC  14528
+                     |.|||||||||||||||||||||||.|||||||||||||||||.|||||.
+c180685339-18  18660 GTTTGCAGGTGAAGGAGGACTGGAAATACGTGGCCATGGTCATTGACCGA  18709
+
+c63361349-633  14529 ATCTTCCTCTGGATGTTCATCATCGTCTGCCTGCTGGGGACGGTGGGCCT  14578
+                     |||||||||||||||||||||||.||||||||.|||||.||.|||||.||
+c180685339-18  18710 ATCTTCCTCTGGATGTTCATCATTGTCTGCCTTCTGGGCACTGTGGGACT  18759
+
+c63361349-633  14579 CTTCCTGCCGCCCTGGCTGGCTGGCATGATCTAGGAAGGGACCGGGAGCC  14628
+                     |||||||||.||.|||.|||||||.||||||||||.|             
+c180685339-18  18760 CTTCCTGCCTCCATGGTTGGCTGGTATGATCTAGGGA-------------  18796
+
+c63361349-633  14629 TGCGTGGCCTGGGGCTGCCGTGCACGGGGCCAGCATCCAT-GCGGCCGGC  14677
+                                                           || |||||  .|
+c180685339-18  18797 --------------------------------------ATAGCGGC--AC  18806
+
+c63361349-633  14678 CTGGGGCCGGGCTGGCTTCTCCCTGGACTCTGTGGGGCC-----ACACGT  14722
+                     ||.|              |||||.||.||||...|||||     ||.|||
+c180685339-18  18807 CTAG--------------CTCCCAGGTCTCTACAGGGCCATGCGACTCGT  18842
+
+c63361349-633  14723 TTG----CCAAATTTTCCTTCCTGTTCTGTGTCTGCTGTAAGACGGCCTT  14768
+                     ..|    |||.||.||||                     ||..|||||.|
+c180685339-18  18843 CAGTCACCCACATCTTCC---------------------AAACCGGCCAT  18871
+
+c63361349-633  14769 GGACGGGGACACGGCCTCT-GGGGAGACCGAGTGTGGAGCTGCTTCC--A  14815
+                          |.|||||     || ||.||||         |||.||||.||  .
+c180685339-18  18872 -----GAGACAC-----CTAGGAGAGA---------GAGATGCTGCCCTG  18902
+
+c63361349-633  14816 GTTGGACTGTGG----CCTCAGG----AGGCAGTGGCTTGGAGCAGAGGT  14857
+                     ||| |||..|||    ..|||||    |||| .||| ||||||| .||.|
+c180685339-18  18903 GTT-GACCCTGGTTCTAGTCAGGCCACAGGC-CTGG-TTGGAGC-TAGTT  18948
+
+c63361349-633  14858 GGGGGTCGGCGCCTTCTACCTGCAGGACT----------CGGGCTAAGTC  14897
+                     |                      ||||||          |.||||.||||
+c180685339-18  18949 G----------------------AGGACTGATATAGTTACAGGCTGAGTC  18976
+
+c63361349-633  14898 ---CAGTTCAAGAGTCTCCTGAGC---------TC---CCCTG-----CA  14927
+                        || ||.|||..|||||.||||         ||   |||||     ||
+c180685339-18  18977 CCTCA-TTAAAGTTTCTCCAGAGCAAGTGACAGTCACTCCCTGGCTTACA  19025
+
+c63361349-633  14928 GATGGAACTCACTCCTCCCAGTCTCTCAGCA-GATCTGGTGATGGTCCCG  14976
+                     ||..|.||.|||.|.||...|||.|..||.| ||||..|||.||.||.| 
+c180685339-18  19026 GACAGCACACACCCATCTGTGTCACAGAGAATGATCCAGTGTTGATCTC-  19074
+
+c63361349-633  14977 ACCGCCCCAAGGGGCCCTTGAAGG------GAGTTCACGCCCCTTCAGCC  15020
+                              ||..|.||||..|||      .|.||||..|||||||||..
+c180685339-18  19075 ---------AGTTGTCCTTTGAGGCCAAAACAATTCATCCCCCTTCAGGA  19115
+
+c63361349-633  15021 CCAAGCGCCCCGTCTTCTGGAGGCCCGGCCGCCTCTCCCACCCACCGTGT  15070
+                     .|.||.|||||                                      |
+c180685339-18  19116 ACCAGAGCCCC--------------------------------------T  19127
+
+c63361349-633  15071 CCTGCGCCTGTGTGGGCTTC------------AACTTCTCCCCCAGGGTC  15108
+                     |.|||     ||||||.|||            ||.||    ||||.|||.
+c180685339-18  19128 CGTGC-----TGTGGGATTCCTACGGCCCAGGAAATT----CCCATGGTG  19168
+
+c63361349-633  15109 CT-TG--------AGCCTCTCGGGCCCCATGAGGGTGAGCCAGCAGCGCT  15149
+                     || ||        |.||||||...||||||.|.|..|..||..||.|.||
+c180685339-18  19169 CTCTGCTGGCCACACCCTCTCCCTCCCCATAATGTGGTTCCCTCAACCCT  19218
+
+c63361349-633  15150 CCAATCT--GCTTCGCT---------AGG----AGAGG---GTCCAGGCA  15181
+                     |||..||  |||.|.||         |||    |||.|   |.||.||||
+c180685339-18  19219 CCAGGCTGGGCTGCTCTCTGACTCAAAGGTGTCAGATGTAAGCCCCGGCA  19268
+
+c63361349-633  15182 GG----GATTGTGTTT-GGTTGTGTTTTGGGTAAG----TTAGTGAGAAC  15222
+                     ||    .|||.||||| |||||          |||    ||.||.||||.
+c180685339-18  19269 GGTTTTTATTTTGTTTAGGTTG----------AAGCGAATTGGTAAGAAA  19308
+
+c63361349-633  15223 TCAAGTCTTGTGCCTAAGGAGCCTTGGAGAACA--GAGTTTTGTGGAGCT  15270
+                     |                          |||.||  |||.|.||||||   
+c180685339-18  19309 T--------------------------AGAGCAGTGAGATATGTGGA---  19329
+
+c63361349-633  15271 GGTTCCGCGTGGGGAGAATCGGGAGGCCCACGC---GG-----GACCAGC  15312
+                                          .|||.|||||.|   ||     ||     
+c180685339-18  19330 ---------------------TGAGTCCCACTCACAGGTGAATGA-----  19353
+
+c63361349-633  15313 TCTCCCCTGCGCAGGCCCTCCGCGGGGGACAGGAACACCCAGCCCCAGCG  15362
+                             |.|||||..|||        |||||||              |
+c180685339-18  19354 --------GTGCAGGGTCTC--------ACAGGAA--------------G  19373
+
+c63361349-633  15363 AGTCTGGAGAC----CAGGACT-CTGCCTTCCAGGCGTAGGG--CCAGGG  15405
+                     |||   |||.|    ||||||| ||| |||||| .|..||||  .||||.
+c180685339-18  19374 AGT---GAGGCACCACAGGACTCCTG-CTTCCA-TCTCAGGGTCACAGGC  19418
+
+c63361349-633  15406 CTC-----TG-GCAGGTGGCC-AGGGCTCCA--------CGGGGGCCTAG  15440
+                     .||     || |||  |..|| |||| ||||        .||.||.|.||
+c180685339-18  19419 ATCAATCATGAGCA--TTTCCTAGGG-TCCATAAACCCGAGGAGGGCAAG  19465
+
+c63361349-633  15441 TGGCTTCAGCCCCTGGGGTACTTCTGTGTTGTGATTCCCCGGAGCTGGGA  15490
+                      |||.| ||     .||||  .||.|.||||||||     ||||      
+c180685339-18  19466 -GGCAT-AG-----AGGGT--CTCAGGGTTGTGAT-----GGAG------  19495
+
+c63361349-633  15491 AGGTCCCGAATGGAGTCCA-GACCTGGGCCCTGGTTCCCCCAGGACCCTG  15539
+                          ||.|||...||||| |.||||||||   ||||..|     ||||.
+c180685339-18  19496 -----CCAAATCCTGTCCAGGGCCTGGGCC---GTTCATC-----CCCTC  19532
+
+c63361349-633  15540 AGGGTTTCCACCTTGGCGCGCAGCCCGGGAGATCCGCCCTG---GGCTCT  15586
+                     |.||     |.|||          ||..||.||   |||||   |..|||
+c180685339-18  19533 ATGG-----ATCTT----------CCTTGATAT---CCCTGTATGTTTCT  19564
+
+c63361349-633  15587 GGGT-TCGGGA---AGAAG-----------GACTTCCTGCT----ACAGT  15617
+                     |..| ||.|||   |||||           ||.||    ||    ||.||
+c180685339-18  19565 GCCTCTCTGGAATTAGAAGACTGAAAGTAAGATTT----CTCATCACGGT  19610
+
+c63361349-633  15618 AGCTGTGGGGAGCTGGTGGGGGCA----TC-CTTGAGGAC------CTCC  15656
+                      .|||        |||||.||.||    || |.||||.||      ||..
+c180685339-18  19611 -CCTG--------TGGTGTGGCCACAGTTCACCTGAGCACATCTCTCTAG  19651
+
+c63361349-633  15657 ACC--TGGGAGATGCTGGGA---CCCT----CGGGGCAGGA-AGTCCCTG  15696
+                     |||  |.|||| ||.||.||   ||||    .|..|.||.| ||  |.||
+c180685339-18  19652 ACCAGTAGGAG-TGGTGCGAAGCCCCTTCAATGTTGTAGAATAG--CGTG  19698
+
+c63361349-633  15697 AGAAGCCTCATGGGAGT-----------CAGGGAGCCCTGGG------GT  15729
+                     ||..||  ||.|.||.|           |||   ||.|||.|      .|
+c180685339-18  19699 AGCTGC--CAAGAGACTTCTAAGCAAAACAG---GCTCTGTGACTCATTT  19743
+
+c63361349-633  15730 TTCCACACAGGCCCATGCCCTCC--GTCCTGGCAGGGCAGGCAGAGCTCA  15777
+                     |||    .|||.||||  |..||  |||.|   ||||             
+c180685339-18  19744 TTC----GAGGGCCAT--CGACCAAGTCTT---AGGG-------------  19771
+
+c63361349-633  15778 GCACAGCCTCACCC---CTGCAGGCGGTATCCAGAGGTGAGGG-AGGCCT  15823
+                        ..|||||||||   ||||         |..|...|.|||| ||.||.
+c180685339-18  19772 ---GTGCCTCACCCTGTCTGC---------CTTGCACTTAGGGAAGACCC  19809
+
+c63361349-633  15824 GAAATGTTTCCAGGCATGACCCTGGAGCCCGGCAGTGCACCCCCT---AA  15870
+                     ||.|.|||            |||              |..|||||   .|
+c180685339-18  19810 GAGAGGTT------------CCT--------------CTTCCCCTTCCCA  19833
+
+c63361349-633  15871 AGATGGCGCACCCGGCAGCCCCCCAGTGTCCCCAGGGGCACACTTCCCCT  15920
+                     |||||  |||||.||||   .||.||.|..||||            ||.|
+c180685339-18  19834 AGATG--GCACCAGGCA---ACCTAGAGAACCCA------------CCGT  19866
+
+c63361349-633  15921 --TGGGATGG------GCACAGGCTGCCCCACCCCTCCAT--GATTCCAA  15960
+                       ||||||||      |.|||.|||| ..|||..|||.||  |||||||.
+c180685339-18  19867 GGTGGGATGGGAGAACGAACATGCTG-TGCACATCTCTATGAGATTCCAC  19915
+
+c63361349-633  15961 GG------GCCCAGAGGGGCGGGGCCAGGATGGCGTGTCCCCTGCCTGTG  16004
+                     .|      |||||||                                   
+c180685339-18  19916 TGAGTGAAGCCCAGA-----------------------------------  19930
+
+c63361349-633  16005 AGTGACATCGGTTCAGGAGGAGACAGTCAGGAAGCCTCCTGCTG---AGT  16051
+                         ||||         .||||.||..||.|||..|.||  |||   .||
+c180685339-18  19931 ----ACAT---------GGGAGGCATGCAAGAAATCACC--CTGTGTCGT  19965
+
+c63361349-633  16052 GGTCC------ACATTCTGCTGCCCCCAGACCCCATCCAGCCAGGGGTGG  16095
+                     |||||      ||..||.||||.|.|||        |||||||  |||||
+c180685339-18  19966 GGTCCCAGTTGACCCTCCGCTGTCTCCA--------CCAGCCA--GGTGG  20005
+
+c63361349-633  16096 G-------GATGGGGTTGGGCTCTGCGTCCCACTGAGTCTCATTCCTCTG  16138
+                     |       ||    |.|||||.|||     |||           ||||  
+c180685339-18  20006 GTTTCACAGA----GCTGGGCCCTG-----CAC-----------CCTC--  20033
+
+c63361349-633  16139 TCCCCGAGCCGAGCTCTCCTGGGCC----AG----GGTCTC-GTCAGGA-  16178
+                           ||||.||||.|.||.||||    ||    ||||.| ||..||| 
+c180685339-18  20034 ------AGCCAAGCTGTTCTAGGCCCTGAAGCTGAGGTCCCTGTTTGGAT  20077
+
+c63361349-633  16179 ------GGTGCCTGAGAGCAGAATGAA---------TAATTGAGGTTAGG  16213
+                           ||.|.||    ||||||||||         ||||         |
+c180685339-18  20078 AGTCCTGGGGACT----GCAGAATGAAAGAAGAACTTAAT---------G  20114
+
+c63361349-633  16214 AACCCGGCATGCCGAGTGCC-CCAG-AAATGCCGCTGTGTCC-CCGCGG-  16259
+                     |||   |||  ||.|  ||| |||| |..|.|.||||...|| |||.|| 
+c180685339-18  20115 AAC---GCA--CCAA--GCCTCCAGTAGGTACGGCTGCCACCTCCGTGGT  20157
+
+c63361349-633  16260 --------------GCAG-TGACGTGAG--TG---GGGAGGA-----GAC  16284
+                                   .||| ||| .||||  ||   ||.||||     |.|
+c180685339-18  20158 ATGACTTGCCCATCCCAGCTGA-ATGAGGATGTCAGGAAGGAGGTATGCC  20206
+
+c63361349-633  16285 TCAGGCCCA-CATTGCCCACACCTG--------------------CCTCT  16313
+                     ..|||.||| |||||||...|||||                    |||.|
+c180685339-18  20207 AGAGGGCCAGCATTGCCTTTACCTGACTACCTACAGGCAAATCCACCTTT  20256
+
+c63361349-633  16314 GAAC----TGCTGCTGGTCACCCCCACCCCCGGGTGCCTGTG--------  16351
+                     .|||    .||||||||.||       .||.||||||..|||        
+c180685339-18  20257 AAACACAGAGCTGCTGGACA-------TCCAGGGTGCTGGTGGGAAAGGA  20299
+
+c63361349-633  16352 -------ACCGGGGTCCTGAGGCTGGGGCTTT--TGTG-CCAGG-AGTGG  16390
+                            ||.|||..||..||||     |.||  |.|| .|||| ||   
+c180685339-18  20300 ACTCCACACTGGGAGCCCCAGGC-----CATTCCTATGAACAGGAAG---  20341
+
+c63361349-633  16391 GTGGGACACAGAGACCCCCGTG----CCAAA-------------TCCTGG  16423
+                       ||||..|||||.||    ||    |..||             |||.||
+c180685339-18  20342 --GGGATGCAGAGGCC----TGGTCTCTGAACTCTGGATATTGTTCCAGG  20385
+
+c63361349-633  16424 GCATCCCCAGCCCCCT---GGCCCCTCCCACATCCCCCGTGTATTCAGGA  16470
+                     .|.||||.||...|||   |||                    ||..||||
+c180685339-18  20386 TCTTCCCTAGAGTCCTAAGGGC--------------------ATCGAGGA  20415
+
+c63361349-633  16471 CCCCATCTGC------TGAGCTCTGACCTGCCCCCGCT--CTGCC---AT  16509
+                     .|||||||||      |.|| ||||.|||    ||.||  |||.|   ||
+c180685339-18  20416 TCCCATCTGCCATGTTTCAG-TCTGCCCT----CCACTGACTGACTAGAT  20460
+
+c63361349-633  16510 C---AGCCCCT--------GCTGCTCCTCGGCCAGA-GCTCCCAGGACGC  16547
+                     |   |||||||        .|||    ||||   || |||        ||
+c180685339-18  20461 CTCTAGCCCCTATATTGGAACTG----TCGG---GATGCT--------GC  20495
+
+c63361349-633  16548 AGGGAGACCCTGGGAGAGTGAGG----TCATCCCGGGGCCATGGAAGCTG  16593
+                     |.|..|||||||     |||.||    ||||      ||||  |||.|||
+c180685339-18  20496 AAGATGACCCTG-----GTGGGGAAATTCAT------GCCA--GAATCTG  20532
+
+c63361349-633  16594 G----CA---GGAGACACTGGTCTCAGAGGAGGGATAGAGAC-GCAGATT  16635
+                     |    ||   ||| ||||..|.|.|     ||.|||..|||| ||||.|.
+c180685339-18  20533 GGGACCAAGGGGA-ACACAAGCCCC-----AGTGATGAAGACAGCAGGTA  20576
+
+c63361349-633  16636 TCAGATGTAAGAAGCCCGATCCA-CAT-----TGCATAAGTGGACCCAGC  16679
+                     .||..||..|||.|...|.||.| |||     ||||||.||||..|||.|
+c180685339-18  20577 ACACCTGACAGATGTGTGTTCTACCATTATGGTGCATACGTGGCTCCAAC  20626
+
+c63361349-633  16680 TGCCAGATGTGTGGGCAGCTG-------CAGGGAGTGGCC-------CGG  16715
+                     ..|.|||..||..|.||.|.|       |||||...||||       |..
+c180685339-18  20627 CACAAGAAATGCAGACAACAGTGGAGATCAGGGCAAGGCCATTGTGACAT  20676
+
+c63361349-633  16716 GGTGCTGGGCCCAGCTGTGGTTGTTCTTTTCTGGGTCAGG---AGTG-AC  16761
+                     ||..|.||.||  ||||| |.||.|||.|||.||||.|||   |.|| ||
+c180685339-18  20677 GGAACAGGACC--GCTGT-GCTGGTCTCTTCAGGGTTAGGAAAACTGAAC  20723
+
+c63361349-633  16762 TGCGGAGTGGCTGGGACGCTCCTGCCGGGGGACCCTCCTGCCGGGGGTGG  16811
+                     |        |||||||.|||||||.|.||..||||.|.|.||        
+c180685339-18  20724 T--------GCTGGGATGCTCCTGACAGGCTACCCACTTCCC--------  20757
+
+c63361349-633  16812 CCGCTTGCCTGGGGGAAGACCCCTTTCC------CTTTCTTTTTTTTTTT  16855
+                            |||        |||||   ||      |.|             
+c180685339-18  20758 -------CCT--------ACCCC---CCAACACACAT-------------  20776
+
+c63361349-633  16856 GAGGCTCAAAA---AAAAAATCCAAATAAAGCACCATATTCCCACCACGC  16902
+                          |||.||   |.||||...|||||||.||||.|.|||.|.|||..|
+c180685339-18  20777 -----TCACAAGCCAGAAAAGGAAAATAAAACACCGTGTTCTCCCCATTC  20821
+
+c63361349-633  16903 CAAATTAACCTTGACAACAATGTTGGCGTATT-------TGCGTCCAGTG  16945
+                     |.|.|.|.||              |||.|.||       |||.|||||  
+c180685339-18  20822 CCACTCAGCC--------------GGCCTTTTGTCTGCCTGCTTCCAG--  20855
+
+c63361349-633  16946 CTGTTTTTAT-TAATTAAGGTAAAATTTACATATGGTGAGATGCATGCT-  16993
+                      ||||..||| |..|.|||.||||.||.|..|| ||..|||   ||||| 
+c180685339-18  20856 -TGTTGATATGTGTTCAAGATAAAGTTCAGTTA-GGGCAGA---ATGCTT  20900
+
+c63361349-633  16994 ---------CTT------CAGTG--------------GAGA---------  17005
+                              |||      |||||              ||||         
+c180685339-18  20901 GATTTAAGACTTTTGAACCAGTGAGCTTTAAAGAACAGAGACTGTGTGGC  20950
+
+c63361349-633  17006 CCCAGCCCC---------TAGA----AGGTCCC-------TCCAGCCCTT  17035
+                     |||||||||         ||||    |..||||       .||||.|||.
+c180685339-18  20951 CCCAGCCCCTCTGATACGTAGACATTATCTCCCCAAAGCTCCCAGTCCTC  21000
+
+c63361349-633  17036 CCTGTCGGCGTCCC-TCCC---------CATC--------TGTGGCTCTG  17067
+                     ||.|||..|  ||| ||||         ||||        ||||..||| 
+c180685339-18  21001 CCAGTCTAC--CCCATCCCATTAGACAGCATCAACTCAAATGTGAGTCT-  21047
+
+c63361349-633  17068 ACTTAAGCACCGTGGATTGACCTCTCCGGCTCACGACCTTCGAGGAGTCA  17117
+                                 ||||  ||||..|.|||||..|.|.|.|  |.|..|..
+c180685339-18  21048 ------------TGGA--GACCAGTTCGGCTAGCCATCAT--ATGTCTGG  21081
+
+c63361349-633  17118 GAATCCTGCA-GTTGGAGCCTTTG--ATGTCTGGCTTCTTCATC----CT  17160
+                     ||||||  || .|||||  ||.||  ||||||||||||||  ||    .|
+c180685339-18  21082 GAATCC--CATATTGGA--CTCTGCAATGTCTGGCTTCTT--TCGCTTGT  21125
+
+c63361349-633  17161 ATGACTTAGAGCTTCATCCGTGCTGTTGTGTGTGTCCGTAG-CTCCTTGC  17209
+                     .||.|..|| || |||||.|.|.|||||||||||   .||| |||.||||
+c180685339-18  21126 GTGGCCAAG-GC-TCATCTGCGGTGTTGTGTGTG---ATAGACTCATTGC  21170
+
+c63361349-633  17210 TGTCTGT-TCCTTCGT----TTTTAATTGTGAGCAGTGTTCTTCTGTCTG  17254
+                     ||| ||| |.||| ||    |.|||.||||           |||||||||
+c180685339-18  21171 TGT-TGTGTGCTT-GTTGGATCTTAGTTGT-----------TTCTGTCTG  21207
+
+c63361349-633  17255 AATAAACTAAGACGCAGTTTGT----CCATCACCTGTTAGTGGACTTTGC  17300
+                     |||||||..||.||..||.|.|    |||                     
+c180685339-18  21208 AATAAACCGAGTCGTGGTGTCTTCCCCCA---------------------  21236
+
+c63361349-633  17301 TTGCAGCTGTCGGTGATTAGGAATGGAGGTGCCGGTGTGTGCATGGCACT  17350
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17351 CTATCCGTTATGCATGTTTATTTTCTGCATCTGTTAATGTTTTAACATCT  17400
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17401 TTCAGACCCAGGACTGCTCCTCCTAGGGCCAGTTAGTTCCCGGGGGTGGA  17450
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17451 CAGCTTGCCTAGAACCCACCTTGCCAGGGCTGTGACCCCCGACCCCCTAT  17500
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17501 CAAAGTCTCACACTAAGCCAACGTTTCCCCGCCCTGTGCCAGGCACCAGG  17550
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17551 CAGCGGGAGACACTGCTGCAGCTCGAAGCCTGCCGGGGCGCCGGCCCCTC  17600
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17601 TGCGGCTGCTTGCGCCATCCTGCCCCCTCCTTCCCAGGGGAGGCCCCAGT  17650
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17651 GAAGGCCCTGGCCAGGGCTTCCCAGCCCCTTCTGCCTCCGGACCGGCCTG  17700
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17701 GGTGCTTCCCGTGTGGCCCGGCCTGGGGCGACGTGGCCCTCCTCTCAGGA  17750
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17751 AGCGTGGTAATCTCTCAATGGCTGGCCTCCGGAGTTGTCACTCAGGCTCC  17800
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17801 CTTGTAAGTTAAGGCCGGGCCCAGGACACTCTAGGGCACGCAGCTGCTGT  17850
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17851 GGGACTGCTGGGTTAGGTGTCCCCTGGAGCAGAGGCGGCTTCGGATTTCT  17900
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17901 AAAGTGGCTGAGTCCTTTCACCTTGCACCAGAAATGCTGGATCAGGCGCA  17950
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  17951 GCACACACAGCACCTGGGGATGCAAGCCCGGCCAGCCCCATGGACCAAGC  18000
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  18001 CCCGCCGACCGTGTGGCCCGCCGAGCCCAGGTGCGGCCGCCCGGCTTCTG  18050
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  18051 CAGGCAATGTCTGCCAAGCCCTGGAATGTGCTCCCAGTGTGTGCACAGAC  18100
+                                                                       
+c180685339-18  21237 --------------------------------------------------  21236
+
+c63361349-633  18101 TTCAATGAATAAAACGCACCGTCACCA  18127
+                                                
+c180685339-18  21237 ---------------------------  21236
+
+
+#---------------------------------------
+#---------------------------------------
