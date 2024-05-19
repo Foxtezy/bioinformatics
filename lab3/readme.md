@@ -59,5 +59,5 @@
 
 ## Изображение белка публикационного качества
 
-Использовал представление `Balls'n'Sticks`, цветовую модель `Per chain` и пресет `Molecule of the Month`  
-![Publication](./Publication.png)  
+Использовал представление `Balls'n'Sticks`, цветовую модель `Per chain` и пресет `Mixed 2`  
+![Publication](./Publication.png)
