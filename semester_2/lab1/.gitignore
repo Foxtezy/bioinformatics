@@ -1,0 +1,6 @@
+output/
+*.Identifier
+.metaflow
+venv
+ecoli.fastq
+ecoli.fna
